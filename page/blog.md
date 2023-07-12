@@ -17,10 +17,10 @@ A brief introduction for the multi-objective optimization problem along with cha
 &thinsp;
 &thinsp;
 
-## [Bayesian Optimization]({% link _posts/2022-12-10-bayesopt.md %})
+## [Bayesian Optimization]({% link _posts/2022-12-12-bayesopt.md %})
 <img class="img_blog" src="/assets/project/bayesopt.gif" onclick="onClick(this)" >
 
-*December 10th, 2022*
+*December 12th, 2022*
 
 A brief introduction of Bayesian optimization for black-box optimization with Gaussian Process and acquisition functions.
 
