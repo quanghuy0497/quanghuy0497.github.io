@@ -20,22 +20,23 @@ My research interests are including *Few-shot learning*, *Domain adaptation*, an
 
 ## News
 
+- **July, 2023**: Our paper Few-shot Cosine Transformer is accepted at IEEE Access (Q1)
 - **February, 2023**: I start a new role as research assistant at College of Engineering and Computer Science, VinUniversity, working on OOD Segmentation and Multi-objective Bayesian Optimization tasks.
 - **November, 2022**: Our latest paper about few-shot image classification is [*here*](https://arxiv.org/abs/2211.06828"). We are submitting a high-impact research journal.
 - **Jan, 2022**: I start a new role as Research Assistant at [**VinUni-Illinois Smart Health Center (VISHC)**](https://smarthealth.vinuni.edu.vn/), VinUniversity.
-- **Dec, 2021**: Our paper is accepted at the Indonesian Journal of Electrical Engineering and Computer Science (IJEECS).
+<!-- - **Dec, 2021**: Our paper is accepted at the Indonesian Journal of Electrical Engineering and Computer Science (IJEECS).
 - **Oct, 2021**: Our paper is accepted at the International Journal of Intelligent Engineering and Systems (IJIES).
 - **May, 2021**: Our paper is accepted at the Journal of Advanced Computer Science and Applications (IJACSA).
 - **Dec, 2020**: I graduate bachelor degree at the University of Information Technology, VNU-HCM.
 - **Sep, 2020**: Our paper is accepted at the FDSE-2020 international conference.
-- **Jan, 2020**: Our paper is accepted at the RIVF-2020 international conference.
+- **Jan, 2020**: Our paper is accepted at the RIVF-2020 international conference. -->
 - **Jul, 2019**: I become a Research assistant at University of Information Technology, VNU-HCM.
 
 &thinsp;
 
 <h2 style="color:#921dc8;"> Publications</h2>
 
-1. **Quang-Huy Nguyen**, Cuong Q. Nguyen, Dung D. Le, Hieu H. Pham, and Minh N. Do. [Enhancing Few-shot Image Classification with Cosine Transformer](https://arxiv.org/abs/2211.06828). *arXiv preprint arXiv:2211.06828.*, 2022.
+1. **Quang-Huy Nguyen**, Cuong Q. Nguyen, Dung D. Le, and Hieu H. Pham. [Enhancing Few-shot Image Classification with Cosine Transformer](https://arxiv.org/abs/2211.06828). *IEEE Access.*, 2023.
 
 2. Dinh-Duy Phan, **Quang-Huy Nguyen**, Thanh-Thien Nguyen, Hoang-Loc Tran, and Duc-Lung Vu. [Joint inter-intra representation learning for pornographic video classification](http://ijeecs.iaescore.com/index.php/IJEECS/article/view/27086). *Indonesian Journal of Electrical Engineering and Computer Science*, 2022.
 
