@@ -20,7 +20,9 @@ My research interests are including *Few-shot learning*, *Domain adaptation*, an
 
 ## News
 
-- **July, 2023**: Our paper Few-shot Cosine Transformer is accepted at IEEE Access (Q1).
+- **August, 2023**: I start a new role as AI research intern at FPTSoftware AI Center, Ho Chi Minh City.
+  
+- **July, 2023**: Our paper Few-shot Cosine Transformer is accepted at IEEE Access.
   
 - **February, 2023**: I start a new role as research assistant at College of Engineering and Computer Science, VinUniversity, working on object-level OOD Detection and Multi-objective Bayesian Optimization tasks.
 
@@ -36,7 +38,7 @@ My research interests are including *Few-shot learning*, *Domain adaptation*, an
 
 <h2 style="color:#921dc8;"> Publications</h2>
 
-1. **Quang-Huy Nguyen**, Cuong Q. Nguyen, Dung D. Le, and Hieu H. Pham. [Enhancing Few-shot Image Classification with Cosine Transformer](https://arxiv.org/abs/2211.06828). *IEEE Access*, 2023.
+1. **Quang-Huy Nguyen**, Cuong Q. Nguyen, Dung D. Le, and Hieu H. Pham. [Enhancing Few-shot Image Classification with Cosine Transformer](https://ieeexplore.ieee.org/document/10190567/). *IEEE Access*, 2023.
 
 2. Dinh-Duy Phan, **Quang-Huy Nguyen**, Thanh-Thien Nguyen, Hoang-Loc Tran, and Duc-Lung Vu. [Joint inter-intra representation learning for pornographic video classification](http://ijeecs.iaescore.com/index.php/IJEECS/article/view/27086). *Indonesian Journal of Electrical Engineering and Computer Science*, 2022.
 
