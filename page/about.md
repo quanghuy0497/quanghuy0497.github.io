@@ -3,7 +3,7 @@
 <img class="profile-picture" src="/assets/profile/profile.jpg">
 
 
-I am currently a research resident at FPTSoftware AI Residency program, supervised by Dr. [Duy-Dung Le](https://andrew-dungle.github.io/) (Assist. Prof. at VinUniversity). Before that, I was a research assistant at College of Engineering and Computer Science, VinUniversity in early 2023, and [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/) in 2022, where I was mentored by Dr. Duy-Dung Le and Dr. [Huy-Hieu Pham](https://huyhieupham.github.io/) (VinUni) under the supervision of Prof. [Minh Do](https://minhdo.ece.illinois.edu/) (UIUC). Before VinUni, I worked as an undergraduate research assistant from 2019 to 2021 at University of Information Technology, Vietnam National University - Ho Chi Minh City under the supervision of Assoc. Prof. [Duc-Lung Vu](https://sites.google.com/uit.edu.vn/lungvd) and achieved a Bachelor degree there in late 2020.
+I am currently a research resident at [FPT Software AI Residency program](https://ai.fpt-software.com/ai-residency/) under the mentorship of Dr. [Duy-Dung Le](https://andrew-dungle.github.io/) (Assist. Prof. at VinUniversity). Before that, I was a research assistant at College of Engineering and Computer Science, VinUniversity in early 2023, and [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/) in 2022, where I was mentored by Dr. Duy-Dung Le and Dr. [Huy-Hieu Pham](https://huyhieupham.github.io/) (VinUni) under the supervision of Prof. [Minh Do](https://minhdo.ece.illinois.edu/) (UIUC). Before VinUni, I worked as an undergraduate research assistant from 2019 to 2021 at University of Information Technology, Vietnam National University - Ho Chi Minh City under the supervision of Assoc. Prof. [Duc-Lung Vu](https://sites.google.com/uit.edu.vn/lungvd) and achieved a Bachelor degree there in late 2020.
 
 
 *I am actively looking for a Ph.D. position in Computer Science, working on the fundamental research of Computer Vision under domain shift/adaptation problems (**continual learning**, **OOD detection**,...), small labeling data (**few-shot/zero-shot learning**), and deep learning optimization (e.g. **Bayesian Optimization**, **Multi-objective Optimization**).*
@@ -25,8 +25,6 @@ My research interests are including *Few-shot learning*, *Domain adaptation*, an
 - **July, 2023**: Our paper Few-shot Cosine Transformer is accepted at IEEE Access.
   
 - **February, 2023**: I start a new role as research assistant at College of Engineering and Computer Science, VinUniversity, working on object-level OOD Detection and Multi-objective Bayesian Optimization tasks.
-
-- **November, 2022**: Our latest paper about few-shot image classification is [*here*](https://arxiv.org/abs/2211.06828"). We are submitting a high-impact research journal.
 
 - **Jan, 2022**: I start a new role as Research Assistant at [**VinUni-Illinois Smart Health Center (VISHC)**](https://smarthealth.vinuni.edu.vn/), VinUniversity.
 
