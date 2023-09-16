@@ -20,11 +20,11 @@ My research interests are including *Few-shot learning*, *Domain adaptation*, an
 
 ## News
 
-- **August, 2023**: I start a new role as AI research resident at FPTSoftware AI Center, Ho Chi Minh City.
+- **August, 2023**: I start a new role as AI research resident at FPTSoftware AI Center, Ho Chi Minh City, working on Diffusion model for OOD object detection and multi-objective Bayesian optimization tasks.
   
 - **July, 2023**: Our paper Few-shot Cosine Transformer is accepted at IEEE Access.
   
-- **February, 2023**: I start a new role as research assistant at College of Engineering and Computer Science, VinUniversity, working on object-level OOD Detection and Multi-objective Bayesian Optimization tasks.
+- **February, 2023**: I start a new role as research assistant at College of Engineering and Computer Science, VinUniversity, working on object-level OOD Detection and expensive multi-objective optimization tasks.
 
 - **Jan, 2022**: I start a new role as Research Assistant at [**VinUni-Illinois Smart Health Center (VISHC)**](https://smarthealth.vinuni.edu.vn/), VinUniversity.
 
