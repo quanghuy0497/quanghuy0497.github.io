@@ -14,11 +14,15 @@ I am currently a research resident at [FPT Software AI Residency program](https:
 
 ## Research interests
 
-My research interests are including *Meta-learning*, *Domain adaptation*, and *Black-box optimization* for general ***Computer Vision*** problems. My research goal is to develop computer vision models that can be generalized/optimized with minimal training data or human supervision and effectively shifted into other domains out-of-distribution. I am also interested exploring the connection between optimization and computer vision toward lifelong and open-world AI learning.
+My research interests are including *meta-learning*, *domain adaptation*, and *black-box optimization* for general ***computer vision*** problems. My research goal is to develop computer vision models that can be generalized/optimized with minimal training data or human supervision and effectively shifted into other domains out-of-distribution. I am also interested exploring the connection between optimization and computer vision toward lifelong and open-world AI learning.
 
 &thinsp;
 
 ## News
+
+- **December, 2023**: Our preprint paper about Expensive Multi-objective Optimization is published on arXiv. You can check it [here](https://arxiv.org/abs/2311.15297). 
+
+- **21-25th, August, 2023**: I participate in the [10th Vietname Summer School of Science](https://www.truonghekhoahoc.com/10years/) at [ICISE](https://www.icisequynhon.com/), Quy Nhon, Vietnam.
 
 - **August, 2023**: I start a new role as AI research resident at FPTSoftware AI Center, Ho Chi Minh City, working on Diffusion model for OOD object detection and multi-objective Bayesian optimization tasks.
   
@@ -36,14 +40,16 @@ My research interests are including *Meta-learning*, *Domain adaptation*, and *B
 
 <h2 style="color:#921dc8;"> Publications</h2>
 
-1. **Quang-Huy Nguyen**, Cuong Q. Nguyen, Dung D. Le, and Hieu H. Pham. [Enhancing Few-shot Image Classification with Cosine Transformer](https://ieeexplore.ieee.org/document/10190567/). *IEEE Access*, 2023.
+1. **Quang-Huy Nguyen**\*, Long H. Phi\*, Hoang V. Vu, and Dung D. Le. [Controllable Expensive Multi-objective Optimization with Warm-starting Gaussian Processes](https://arxiv.org/abs/2311.15297). *arXiv:2311.15297*, 2023.
 
-2. Dinh-Duy Phan, **Quang-Huy Nguyen**, Thanh-Thien Nguyen, Hoang-Loc Tran, and Duc-Lung Vu. [Joint inter-intra representation learning for pornographic video classification](http://ijeecs.iaescore.com/index.php/IJEECS/article/view/27086). *Indonesian Journal of Electrical Engineering and Computer Science*, 2022.
+2. **Quang-Huy Nguyen**, Cuong Q. Nguyen, Dung D. Le, and Hieu H. Pham. [Enhancing Few-shot Image Classification with Cosine Transformer](https://ieeexplore.ieee.org/document/10190567/). *IEEE Access*, 2023.
 
-3. Dinh-Duy Phan, Thanh Thien Nguyen, **Quang-Huy Nguyen**, Hoang-Loc Tran, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. [LSPD: A Large-Scale Pornographic Dataset for Detection and Classification](https://inass.org/wp-content/uploads/2021/09/2022022819-4.pdf). *International Journal of Intelligent Engineering and Systems*, 2021.
+3. Dinh-Duy Phan, **Quang-Huy Nguyen**, Thanh-Thien Nguyen, Hoang-Loc Tran, and Duc-Lung Vu. [Joint inter-intra representation learning for pornographic video classification](http://ijeecs.iaescore.com/index.php/IJEECS/article/view/27086). *Indonesian Journal of Electrical Engineering and Computer Science*, 2022.
 
-4. Dinh-Duy Phan, Thanh-Thien Nguyen, **Quang-Huy Nguyen**, Hoang-Loc Tran, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. [A Novel Pornographic Visual Content Classifier based on Sensitive Object Detection](https://thesai.org/Downloads/Volume12No5/Paper_91-A_Novel_Pornographic_Visual_Content_Classifier.pdf). *International Journal of Advanced Computer Science and Applications*, 2021.
+4. Dinh-Duy Phan, Thanh Thien Nguyen, **Quang-Huy Nguyen**, Hoang-Loc Tran, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. [LSPD: A Large-Scale Pornographic Dataset for Detection and Classification](https://inass.org/wp-content/uploads/2021/09/2022022819-4.pdf). *International Journal of Intelligent Engineering and Systems*, 2021.
 
-5. Hoang-Loc Tran, **Quang-Huy Nguyen**, Dinh-Duy Phan, Thanh-Thien Nguyen, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. [Additional learning on object detection: A novel approach in pornography classification](https://link.springer.com/chapter/10.1007/978-981-33-4370-2_22). *In International Conference on Future Data and Security Engineering*. Springer, 2020.
+5. Dinh-Duy Phan, Thanh-Thien Nguyen, **Quang-Huy Nguyen**, Hoang-Loc Tran, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. [A Novel Pornographic Visual Content Classifier based on Sensitive Object Detection](https://thesai.org/Downloads/Volume12No5/Paper_91-A_Novel_Pornographic_Visual_Content_Classifier.pdf). *International Journal of Advanced Computer Science and Applications*, 2021.
 
-6. **Quang-Huy Nguyen**, Khac-Ngoc-Khoi Nguyen, Hoang-Loc Tran, Thanh-Thien Nguyen, Dinh-Duy Phan, and Duc-Lung Vu. [Multi-level detector for pornographic content using CNN models](https://ieeexplore.ieee.org/document/9140734). *In 2020 RIVF international conference on computing and communication technologies (RIVF)*. IEEE, 2020.
+6. Hoang-Loc Tran, **Quang-Huy Nguyen**, Dinh-Duy Phan, Thanh-Thien Nguyen, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. [Additional learning on object detection: A novel approach in pornography classification](https://link.springer.com/chapter/10.1007/978-981-33-4370-2_22). *In International Conference on Future Data and Security Engineering*. Springer, 2020.
+
+7. **Quang-Huy Nguyen**, Khac-Ngoc-Khoi Nguyen, Hoang-Loc Tran, Thanh-Thien Nguyen, Dinh-Duy Phan, and Duc-Lung Vu. [Multi-level detector for pornographic content using CNN models](https://ieeexplore.ieee.org/document/9140734). *In 2020 RIVF international conference on computing and communication technologies (RIVF)*. IEEE, 2020.
