@@ -40,7 +40,7 @@ My research interests are including *meta-learning*, *domain adaptation*, and *b
 
 <h2 style="color:#921dc8;"> Publications</h2>
 
-1. **Quang-Huy Nguyen**\*, Long H. Phi\*, Hoang V. Vu, and Dung D. Le. [Controllable Expensive Multi-objective Optimization with Warm-starting Gaussian Processes](https://arxiv.org/abs/2311.15297). *arXiv:2311.15297*, 2023.
+1. **Quang-Huy Nguyen**\*, Long P. Hoang\*, Hoang V. Vu, and Dung D. Le. [Controllable Expensive Multi-objective Optimization with Warm-starting Gaussian Processes](https://arxiv.org/abs/2311.15297). *arXiv:2311.15297*, 2023.
 
 2. **Quang-Huy Nguyen**, Cuong Q. Nguyen, Dung D. Le, and Hieu H. Pham. [Enhancing Few-shot Image Classification with Cosine Transformer](https://ieeexplore.ieee.org/document/10190567/). *IEEE Access*, 2023.
 
