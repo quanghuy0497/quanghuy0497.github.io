@@ -22,7 +22,7 @@ github:
   space: '/&thinsp;'
 
 scholar:
-  id: 'citations?hl=en&user=SLjuGgIAAAAJ'
+  id: 'citations?hl=en&user=SLjuGgIAAAAJ&view_op=list_works&sortby=pubdate'
   href: 'https://scholar.google.com/'
   title: 'Scholar'
   fa-icon: 'fas fa-graduation-cap'
