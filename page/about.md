@@ -6,7 +6,7 @@
 I am currently a research resident at [FPT Software AI Residency program](https://ai.fpt-software.com/ai-residency/) under the mentorship of Dr. [Duy-Dung Le](https://andrew-dungle.github.io/) (Assist. Prof. at VinUniversity). Before that, I was a research assistant at College of Engineering and Computer Science, VinUniversity in early 2023, and [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/) in 2022, where I was mentored by Dr. Duy-Dung Le and Dr. [Huy-Hieu Pham](https://huyhieupham.github.io/) (VinUni) under the supervision of Prof. [Minh Do](https://minhdo.ece.illinois.edu/) (UIUC). Before VinUni, I worked as an undergraduate research assistant from 2019 to 2021 at University of Information Technology, Vietnam National University - Ho Chi Minh City under the supervision of Assoc. Prof. [Duc-Lung Vu](https://sites.google.com/uit.edu.vn/lungvd) and achieved a Bachelor degree there in late 2020.
 
 
-*I am actively looking for a Ph.D. position in Computer Science starting Fall 2024, working on the fundamental research of meta-learning (**few-shot/zero-shot learning**), domain adaptation (particularly **continual learning**, **OOD detection**,...), and black-box optimization (e.g. **Bayesian Optimization**) for machine learning, deep learning, and computer vision.*
+*I am actively looking for a Ph.D. position in Computer Science starting Fall 2024, working on the fundamental research of **meta-learning** (few-shot/zero-shot learning), **domain adaptation** (particularly continual learning, transfer learning, and out-of-distribution detection,...), and **black-box optimization** (e.g. with Bayesian Optimization) for machine learning, deep learning, and computer vision.*
 
 {% include social_media_links.html %}
 
@@ -14,7 +14,9 @@ I am currently a research resident at [FPT Software AI Residency program](https:
 
 ## Research interests
 
-My research interests are including *meta-learning*, *domain adaptation*, and *black-box optimization* for general *computer vision* problems. My research goal is to develop machine learning algorithms that can be generalized/optimized with minimal training data or human supervision and effectively shifted into other domains out-of-distribution for computer vision-oriented tasks (but not necessarily limited to vision). I am also interested in exploring the connection between optimization and machine learning toward effective lifelong and open-world AI systems.
+My research interests include *meta-learning*, *domain adaptation*, and *black-box optimization* for lifelong and open-world *machine learning*, especially in *computer vision*. My research goal is to develop machine learning algorithms that continuously learn with minimal data or supervision and effectively adapt to other domains outside the training data. I am also interested in exploring the connection between optimization and machine learning toward effective lifelong and open-world AI systems.
+
+Details of my research interests are presented and discussed [here](https://quanghuy0497.github.io/page/research).
 
 &thinsp;
 
