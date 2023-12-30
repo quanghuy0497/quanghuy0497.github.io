@@ -6,7 +6,7 @@
 I am currently a research resident at [FPT Software AI Residency program](https://ai.fpt-software.com/ai-residency/) under the mentorship of Dr. [Duy-Dung Le](https://andrew-dungle.github.io/) (Assist. Prof. at VinUniversity). Before that, I was a research assistant at College of Engineering and Computer Science, VinUniversity in early 2023, and [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/) in 2022, where I was mentored by Dr. Duy-Dung Le and Dr. [Huy-Hieu Pham](https://huyhieupham.github.io/) (VinUni) under the supervision of Prof. [Minh Do](https://minhdo.ece.illinois.edu/) (UIUC). Before VinUni, I worked as an undergraduate research assistant from 2019 to 2021 at University of Information Technology, Vietnam National University - Ho Chi Minh City under the supervision of Assoc. Prof. [Duc-Lung Vu](https://sites.google.com/uit.edu.vn/lungvd) and achieved a Bachelor degree there in late 2020.
 
 
-*I am actively looking for a Ph.D. position in Computer Science starting Fall 2024, working on the fundamental research of **meta-learning** (few-shot/zero-shot learning), **domain adaptation** (particularly continual learning, transfer learning, and out-of-distribution detection,...), and **black-box optimization** (e.g. with Bayesian Optimization) for machine learning, deep learning, and computer vision.*
+*I am actively looking for a Ph.D. position in Computer Science starting Fall 2024*
 
 {% include social_media_links.html %}
 
