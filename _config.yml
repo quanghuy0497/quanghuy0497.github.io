@@ -20,7 +20,7 @@ sass:
 nav:
  - name: "About"
    link: "https://quanghuy0497.github.io"
- - name: "Research"
+ - name: <strong>Research</strong>
    link: "/page/research"
  - name: "Projects"
    link: "/page/projects"
