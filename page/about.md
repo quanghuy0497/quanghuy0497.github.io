@@ -3,12 +3,14 @@
 <img class="profile-picture" src="/assets/profile/profile.jpg">
 
 
-I am currently a research resident at [FPT Software AI Residency program](https://ai.fpt-software.com/ai-residency/) under the mentorship of Dr. [Duy-Dung Le](https://andrew-dungle.github.io/) (Assist. Prof. at VinUniversity). Before that, I was a research assistant at College of Engineering and Computer Science, VinUniversity in early 2023, and [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/) in 2022, where I was mentored by Dr. Duy-Dung Le and Dr. [Huy-Hieu Pham](https://huyhieupham.github.io/) (VinUni) under the supervision of Prof. [Minh Do](https://minhdo.ece.illinois.edu/) (UIUC). Before VinUni, I worked as an undergraduate research assistant from 2019 to 2021 at University of Information Technology, Vietnam National University - Ho Chi Minh City under the supervision of Assoc. Prof. [Duc-Lung Vu](https://sites.google.com/uit.edu.vn/lungvd) and achieved a Bachelor degree there in late 2020.
-
-
-*I am actively looking for a Ph.D. position in Computer Science starting Fall 2024*
+I am currently a research resident at [FPT Software AI Residency program](https://ai.fpt-software.com/ai-residency/) under the mentorship of Dr. [Duy-Dung Le](https://andrew-dungle.github.io/) (Assist. Prof. at VinUniversity). Before that, I was a research assistant at College of Engineering and Computer Science, VinUniversity in early 2023, and [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/) in 2022, where I was mentored by Assist. Profs. Duy-Dung Le and [Huy-Hieu Pham](https://huyhieupham.github.io/) (VinUni) under the supervision of Prof. [Minh Do](https://minhdo.ece.illinois.edu/) (UIUC). Before VinUni, I worked as an undergraduate research assistant from 2019 to 2021 at the [University of Information Technology](https://en.uit.edu.vn/) (UIT, VNU-HCM) under the supervision of Assoc. Prof. [Duc-Lung Vu](https://sites.google.com/uit.edu.vn/lungvd) and achieved a Bachelor degree there in 2020.
 
 {% include social_media_links.html %}
+
+<center>
+<br> <br>
+<b>I am actively looking for a Ph.D. position in Computer Science starting Fall 2024</b>.
+</center>
 
 &thinsp;
 
@@ -22,21 +24,21 @@ Details of my research interests are presented and discussed [here](https://quan
 
 ## News
 
-- **December, 2023**: Our preprint paper about Expensive Multi-objective Optimization is published on arXiv. You can check it [here](https://arxiv.org/abs/2311.15297). 
+- **Dec, 2023**: Our preprint paper about Expensive Multi-objective Optimization is published on [arXiv](https://arxiv.org/abs/2311.15297). 
 
-- **21-25th, August, 2023**: I participate in the [10th Vietname Summer School of Science](https://www.truonghekhoahoc.com/10years/) at [ICISE](https://www.icisequynhon.com/), Quy Nhon, Vietnam.
+- **Aug, 2023**: I participate in the [10th Vietname Summer School of Science](https://www.truonghekhoahoc.com/10years/) at [International Centre for Interdisciplinary Science and Education](https://www.icisequynhon.com/), Quy Nhon, Vietnam.
 
-- **August, 2023**: I start a new role as AI research resident at FPTSoftware AI Center, Ho Chi Minh City, working on Diffusion model for OOD object detection and multi-objective Bayesian optimization tasks.
+- **Aug, 2023**: I start a new role as AI research resident at [FPTSoftware AI Center](https://ai.fpt-software.com/ai-residency/), working on Diffusion model for object-level Out-of-distribution Detection.
   
-- **July, 2023**: Our paper Few-shot Cosine Transformer is accepted at IEEE Access.
+- **July, 2023**: Our paper Few-shot Cosine Transformer is accepted at [IEEE Access](https://ieeexplore.ieee.org/document/10190567/) (Q1, IF 3.476).
   
-- **February, 2023**: I start a new role as research assistant at College of Engineering and Computer Science, VinUniversity, working on object-level OOD Detection and expensive multi-objective optimization tasks.
+- **Feb, 2023**: I become research assistant at [College of Engineering and Computer Science](https://vinuni.edu.vn/college-of-engineering-computer-science/), VinUniversity, working on multi-objective Bayesian optimization.
 
-- **Jan, 2022**: I start a new role as Research Assistant at [**VinUni-Illinois Smart Health Center (VISHC)**](https://smarthealth.vinuni.edu.vn/), VinUniversity.
+- **Jan, 2022**: I become research assistant at [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/), VinUniversity.
 
-- **Dec, 2020**: I graduate bachelor degree at the University of Information Technology, VNU-HCM.
+- **Dec, 2020**: I obtain a Bachelor degree in Computer Engineering at University of Information Technology, VNU-HCM.
 
-- **Jul, 2019**: I become a Research assistant at University of Information Technology, VNU-HCM.
+- **Jul, 2019**: I become research assistant at [Faculty of Computer Engineering](https://fce.uit.edu.vn/), University of Information Technology, VNU-HCM.
 
 &thinsp;
 
