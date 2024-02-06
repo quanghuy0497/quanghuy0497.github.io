@@ -24,6 +24,8 @@ Details of my research interests are presented and discussed [here](https://quan
 
 ## News
 
+- **Feb, 2024**: Our preprint paper about Zero-shot Object-level OOD Detection is published on [arXiv](http://arxiv.org/abs/2402.03292). I have a great opportunity working with Jin Peng Zhou, Zhenzhen Liu, and Prof. Kilian Weinberger (Cornell University) through this joint collaboration.
+
 - **Dec, 2023**: Our preprint paper about Expensive Multi-objective Optimization is published on [arXiv](https://arxiv.org/abs/2311.15297). 
 
 - **Aug, 2023**: I participate in the [10th Vietname Summer School of Science](https://www.truonghekhoahoc.com/10years/) at [International Centre for Interdisciplinary Science and Education](https://www.icisequynhon.com/), Quy Nhon, Vietnam.
@@ -44,7 +46,7 @@ Details of my research interests are presented and discussed [here](https://quan
 
 <h2 style="color:#921dc8;"> Selected Publications</h2>
 
-1. **Quang-Huy Nguyen**\*, Jin-Peng Zhou\*, Zhenzhen Liu, Khanh-Huyen Bui, Kilian Q. Weinberger, and Dung D. Le. Zero-Shot Object-Level Out-of-Distribution Detection with Context-Aware Inpainting. *under review*, 2024.
+1. **Quang-Huy Nguyen**\*, Jin-Peng Zhou\*, Zhenzhen Liu, Khanh-Huyen Bui, Kilian Q. Weinberger, and Dung D. Le. [Zero-Shot Object-Level Out-of-Distribution Detection with Context-Aware Inpainting](http://arxiv.org/abs/2402.03292). *under review*, 2024.
 
 2. **Quang-Huy Nguyen**\*, Long P. Hoang\*, Hoang V. Vu, and Dung D. Le. [Controllable Expensive Multi-objective Optimization with Warm-starting Gaussian Processes](https://arxiv.org/abs/2311.15297). *arXiv:2311.15297*, 2023.
 
