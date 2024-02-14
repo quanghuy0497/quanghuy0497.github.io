@@ -21,6 +21,13 @@ github:
   fa-icon: 'fab fa-github-square'
   space: '/&thinsp;'
 
+cv:
+  id: 'Nguyen_Huy_CV_12February2023.pdf'
+  href: 'pdf/'
+  title: 'Curriculum Vitae'
+  fa-icon: 'fas fa-file'
+  space: ''
+
 scholar:
   id: 'citations?hl=en&user=SLjuGgIAAAAJ&view_op=list_works&sortby=pubdate'
   href: 'https://scholar.google.com/'
@@ -42,9 +49,3 @@ twitter:
 #   fa-icon: 'fab fa-instagram-square'
 #   space: '/&thinsp;'
 
-cv:
-  id: 'Nguyen_Huy_CV_12February2023.pdf'
-  href: 'pdf/'
-  title: 'CV'
-  fa-icon: 'fas fa-file'
-  space: ''
