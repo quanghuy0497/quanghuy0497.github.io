@@ -67,17 +67,17 @@ We explore **Few-shot Image Classification** by proposing *a new cross-attention
 
 <!-- - **Aug, 2023**: I participate in the [10th Vietname Summer School of Science](https://www.truonghekhoahoc.com/10years/) at [International Centre for Interdisciplinary Science and Education](https://www.icisequynhon.com/), Quy Nhon, Vietnam. -->
 
-- **Aug, 2023**: I start a new role as AI research resident at [FPTSoftware AI Center](https://ai.fpt-software.com/ai-residency/), working on Diffusion model for object-level Out-of-distribution Detection.
+- **Aug, 2023**: I become AI Research Resident at [FPTSoftware AI Center](https://ai.fpt-software.com/ai-residency/), Ho Chi Minh City. 
   
 - **July, 2023**: Our paper Few-shot Cosine Transformer is accepted at [IEEE Access](https://ieeexplore.ieee.org/document/10190567/) (Q1, IF 3.476).
   
-- **Feb, 2023**: I become research assistant at [College of Engineering and Computer Science](https://vinuni.edu.vn/college-of-engineering-computer-science/), VinUniversity, working on multi-objective Bayesian optimization.
+- **Feb, 2023**: I become Research Assistant at [College of Engineering and Computer Science](https://vinuni.edu.vn/college-of-engineering-computer-science/), VinUniversity.
 
-- **Jan, 2022**: I become research assistant at [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/), VinUniversity.
+- **Jan, 2022**: I become Research Assistant at [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/), VinUniversity.
 
 - **Dec, 2020**: I obtain a Bachelor degree in Computer Engineering at University of Information Technology, VNU-HCM.
 
-- **Jul, 2019**: I become research assistant at [Faculty of Computer Engineering](https://fce.uit.edu.vn/), University of Information Technology, VNU-HCM.
+- **Jul, 2019**: I become Research Assistant at [Faculty of Computer Engineering](https://fce.uit.edu.vn/), University of Information Technology, VNU-HCM.
 
 &thinsp;
 
