@@ -18,18 +18,18 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "<strong>About Me</strong>"
    link: "https://quanghuy0497.github.io"
- - name: Research
+ - name: <strong>My Research</strong>
    link: "/page/research"
+ - name: <strong>My Blog</strong>
+   link: "/page/blog"
 #  - name: "Projects"
 #    link: "/page/projects"
 #  - name: "Relevant Courses"
 #    link: "/page/courses"
- - name: Blog
-   link: "/page/blog"
- - name: "Hobbies"
-   link: "/page/hobby"
+#  - name: "<strong>Hobbies</strong>"
+#    link: "/page/hobby"
 
 category_archive:
   type: liquid
