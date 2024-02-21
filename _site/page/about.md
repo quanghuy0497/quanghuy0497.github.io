@@ -45,7 +45,7 @@ Our work explores **Multi-objective Black-box Optimization** with ***Pareto Fron
 
 <br>
 
-<img class="paper_right" src="/assets/project/CosAttn.png" onclick="onClick(this)" >
+<img class="paper_right" src="/assets/project/Cosine_Attention.png" onclick="onClick(this)" >
 
 [**Enhancing Few-shot Image Classification with Cosine Transformer**](https://ieeexplore.ieee.org/document/10190567/)  
 **Quang-Huy Nguyen**, [Cuong Q. Nguyen](https://www.linkedin.com/in/quoc-cuong-nguyen-076b91192/), [Dung D. Le](https://scholar.google.com/citations?user=0eoYR1gAAAAJ&hl=en), [Hieu H. Pham](https://scholar.google.com/citations?user=mXcFcNkAAAAJ&hl=en)  
