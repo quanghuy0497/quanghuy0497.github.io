@@ -20,13 +20,13 @@ sass:
 nav:
  - name: "About"
    link: "https://quanghuy0497.github.io"
- - name: <strong>Research</strong>
+ - name: Research
    link: "/page/research"
 #  - name: "Projects"
 #    link: "/page/projects"
- - name: "Relevant Courses"
-   link: "/page/courses"
- - name: <strong>quanghuy0497's blog</strong>
+#  - name: "Relevant Courses"
+#    link: "/page/courses"
+ - name: Blog
    link: "/page/blog"
  - name: "Hobbies"
    link: "/page/hobby"
