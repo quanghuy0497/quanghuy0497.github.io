@@ -59,11 +59,11 @@ We explore **Few-shot Image Classification** by proposing *a new cross-attention
 
 ## News
 
-- **Feb, 2024**: Our preprint paper about Zero-shot Object-level OOD Detection is published on [arXiv](http://arxiv.org/abs/2402.03292). I have a great opportunity working with Jin Peng Zhou, Zhenzhen Liu, and Prof. [Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/) (Cornell University) through this joint collaboration.
+<!-- - **Feb, 2024**: Our preprint paper about Zero-shot Object-level OOD Detection is published on [arXiv](http://arxiv.org/abs/2402.03292). I have a great opportunity working with Jin Peng Zhou, Zhenzhen Liu, and Prof. [Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/) (Cornell University) through this joint collaboration. -->
 
-- **Dec, 2023**: Our preprint paper about Expensive Multi-objective Optimization is published on [arXiv](https://arxiv.org/abs/2311.15297). 
+<!-- - **Dec, 2023**: Our preprint paper about Expensive Multi-objective Optimization is published on [arXiv](https://arxiv.org/abs/2311.15297).  -->
 
-- **Aug, 2023**: I participate in the [10th Vietname Summer School of Science](https://www.truonghekhoahoc.com/10years/) at [International Centre for Interdisciplinary Science and Education](https://www.icisequynhon.com/), Quy Nhon, Vietnam.
+<!-- - **Aug, 2023**: I participate in the [10th Vietname Summer School of Science](https://www.truonghekhoahoc.com/10years/) at [International Centre for Interdisciplinary Science and Education](https://www.icisequynhon.com/), Quy Nhon, Vietnam. -->
 
 - **Aug, 2023**: I start a new role as AI research resident at [FPTSoftware AI Center](https://ai.fpt-software.com/ai-residency/), working on Diffusion model for object-level Out-of-distribution Detection.
   
