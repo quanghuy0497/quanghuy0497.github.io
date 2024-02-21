@@ -52,11 +52,11 @@ Details of my research interests are presented and discussed [here](https://quan
 
 3. **Quang-Huy Nguyen**, Cuong Q. Nguyen, Dung D. Le, and Hieu H. Pham. [Enhancing Few-shot Image Classification with Cosine Transformer](https://ieeexplore.ieee.org/document/10190567/). *IEEE Access*, 2023.
 
-4. Dinh-Duy Phan, **Quang-Huy Nguyen**, Thanh-Thien Nguyen, Hoang-Loc Tran, and Duc-Lung Vu. [Joint inter-intra representation learning for pornographic video classification](http://ijeecs.iaescore.com/index.php/IJEECS/article/view/27086). *Indonesian Journal of Electrical Engineering and Computer Science*, 2022.
+<!-- 4. Dinh-Duy Phan, **Quang-Huy Nguyen**, Thanh-Thien Nguyen, Hoang-Loc Tran, and Duc-Lung Vu. [Joint inter-intra representation learning for pornographic video classification](http://ijeecs.iaescore.com/index.php/IJEECS/article/view/27086). *Indonesian Journal of Electrical Engineering and Computer Science*, 2022.
 
 5. Hoang-Loc Tran, **Quang-Huy Nguyen**, Dinh-Duy Phan, Thanh-Thien Nguyen, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. [Additional learning on object detection: A novel approach in pornography classification](https://link.springer.com/chapter/10.1007/978-981-33-4370-2_22). *In International Conference on Future Data and Security Engineering*. Springer, 2020. 
 
-6. **Quang-Huy Nguyen**, Khac-Ngoc-Khoi Nguyen, Hoang-Loc Tran, Thanh-Thien Nguyen, Dinh-Duy Phan, and Duc-Lung Vu. [Multi-level detector for pornographic content using CNN models](https://ieeexplore.ieee.org/document/9140734). *In 2020 RIVF international conference on computing and communication technologies (RIVF)*. IEEE, 2020.
+6. **Quang-Huy Nguyen**, Khac-Ngoc-Khoi Nguyen, Hoang-Loc Tran, Thanh-Thien Nguyen, Dinh-Duy Phan, and Duc-Lung Vu. [Multi-level detector for pornographic content using CNN models](https://ieeexplore.ieee.org/document/9140734). *In 2020 RIVF international conference on computing and communication technologies (RIVF)*. IEEE, 2020. -->
 
 <!-- 4. Dinh-Duy Phan, Thanh Thien Nguyen, **Quang-Huy Nguyen**, Hoang-Loc Tran, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. [LSPD: A Large-Scale Pornographic Dataset for Detection and Classification](https://inass.org/wp-content/uploads/2021/09/2022022819-4.pdf). *International Journal of Intelligent Engineering and Systems*, 2021. -->
 
