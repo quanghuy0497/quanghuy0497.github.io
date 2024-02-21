@@ -1,5 +1,12 @@
 # https://fontawesome.com/icons
 
+github:
+  id: 'quanghuy0497'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fab fa-github-square'
+  space: '/&thinsp;'
+
 email:
   id: 'quanghuy0497@gmail.com'
   href: 'mailto:'
@@ -14,17 +21,10 @@ email:
 #   fa-icon: 'fab fa-facebook-square'
 #   space: '/&thinsp;'
 
-github:
-  id: 'quanghuy0497'
-  href: 'https://github.com/'
-  title: 'GitHub'
-  fa-icon: 'fab fa-github-square'
-  space: '/&thinsp;'
-
 cv:
   id: 'Nguyen_Huy_CV_12February2023.pdf'
   href: 'pdf/'
-  title: 'Curriculum Vitae'
+  title: 'Curiculum Vitae'
   fa-icon: 'fas fa-file'
   space: '/&thinsp;'
 

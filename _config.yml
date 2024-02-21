@@ -22,8 +22,8 @@ nav:
    link: "https://quanghuy0497.github.io"
  - name: <strong>Research</strong>
    link: "/page/research"
- - name: "Projects"
-   link: "/page/projects"
+#  - name: "Projects"
+#    link: "/page/projects"
  - name: "Relevant Courses"
    link: "/page/courses"
  - name: <strong>quanghuy0497's blog</strong>

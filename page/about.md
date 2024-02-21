@@ -9,7 +9,7 @@ I am currently a research resident at [FPT Software AI Residency program](https:
 
 <center>
 <br> <br>
-<b>I am actively looking for a Ph.D. position in Computer Science starting Fall 2024</b>.
+<b><p>I am actively looking for a Ph.D. position in Computer Science starting Fall 2024.</p></b>
 </center>
 
 &thinsp;
@@ -22,7 +22,42 @@ Details of my research interests are presented and discussed [here](https://quan
 
 &thinsp;
 
-<!-- ## News
+## Highlighted Research
+
+ 
+<img class="paper_right" src="/assets/project/RONIN.png" onclick="onClick(this)" >
+
+[**Zero-Shot Object-Level Out-of-Distribution Detection with Context-Aware Inpainting**](http://arxiv.org/abs/2402.03292)  
+**Quang-Huy Nguyen**\*, [Jin Zhou](https://scholar.google.com/citations?user=Nf48jqcAAAAJ&hl=en)\*, [Zhenzhen Liu](https://scholar.google.com/citations?user=dGMjHEwAAAAJ&hl=en), [Huyen Bui](https://scholar.google.com/citations?user=y3kKr_QAAAAJ&hl=en&oi=sra), [Kilian Q. Weinberger](https://scholar.google.com/citations?user=8RVWMycAAAAJ&hl=en), [Dung D. Le](https://scholar.google.com/citations?user=0eoYR1gAAAAJ&hl=en)  
+*Under review*, **2024**  
+
+In this paper, we tackle **Object-level OOD Detection** without access to the training data, considering object detector as black-box function. We leverages ***off-the-shelf Diffusion model*** to replace detected object with in-context inpainting, drawing the input object closer to the in-distribution (ID) domain. Hence, we are able to recognize OOD objects that are erroneously predicted by the object detection model without any re-training effort.
+
+<br>
+
+<img class="paper_right" src="/assets/project/Co-PSL.png" onclick="onClick(this)" >
+
+[**Controllable Expensive Multi-objective Learning with Warm-starting Bayesian Optimization**](http://arxiv.org/abs/2311.15297)  
+**Quang-Huy Nguyen**\*, [Long P. Hoang](https://scholar.google.com/citations?user=3Dfc1z8AAAAJ&hl=en)\*, [Hoang V. Vu](https://scholar.google.com/citations?hl=en&user=YMt0pEoAAAAJ), [Dung D. Le](https://scholar.google.com/citations?user=0eoYR1gAAAAJ&hl=en)  
+*Under review*, **2024**
+
+Our work explores **Multi-objective Black-box Optimization** with ***Pareto Front Learning*** (PSL), aligning trade-off preferences with corresponding optimal solutions between conflicting objectives. As existing methods often suffer from unstable and inefficient performance when optimizing based on Gaussian Processes (GPs), we then tackle this by leveraging *warm-starting Bayesian Optimization* to adequately obtain a good approximation of the front first and *re-initialize the Pareto Set Model* during the opimization steps to stabilize the PSL.
+
+<br>
+
+<img class="paper_right" src="/assets/project/FSCT.png" onclick="onClick(this)" >
+
+[**Enhancing Few-shot Image Classification with Cosine Transformer**](https://ieeexplore.ieee.org/document/10190567/)  
+**Quang-Huy Nguyen**, [Cuong Q. Nguyen](https://www.linkedin.com/in/quoc-cuong-nguyen-076b91192/), [Dung D. Le](https://scholar.google.com/citations?user=0eoYR1gAAAAJ&hl=en), [Hieu H. Pham](https://scholar.google.com/citations?user=mXcFcNkAAAAJ&hl=en)  
+*IEEE Access*, **2023**
+
+We explore **Few-shot Image Classification** by proposing *a new cross-attention mechanism* based on ***cosine similarity*** without softmax to further emphasizes the correlation between labeled supports and unlabeled query representations, thus enhancing ViT-based few-shot algorithms across various settings and scenarios compare to convention attention mechanism. 
+
+
+&thinsp;
+
+
+## News
 
 - **Feb, 2024**: Our preprint paper about Zero-shot Object-level OOD Detection is published on [arXiv](http://arxiv.org/abs/2402.03292). I have a great opportunity working with Jin Peng Zhou, Zhenzhen Liu, and Prof. [Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/) (Cornell University) through this joint collaboration.
 
@@ -42,24 +77,5 @@ Details of my research interests are presented and discussed [here](https://quan
 
 - **Jul, 2019**: I become research assistant at [Faculty of Computer Engineering](https://fce.uit.edu.vn/), University of Information Technology, VNU-HCM.
 
-&thinsp; -->
+&thinsp;
 
-<h2 style="color:#921dc8;"> Selected Publications</h2>
-
-1. **Quang-Huy Nguyen**\*, Jin Peng Zhou\*, Zhenzhen Liu, Khanh-Huyen Bui, Kilian Q. Weinberger, and Dung D. Le. [Zero-Shot Object-Level Out-of-Distribution Detection with Context-Aware Inpainting](http://arxiv.org/abs/2402.03292). *under review*, 2024.
-
-2. **Quang-Huy Nguyen**\*, Long P. Hoang\*, Hoang V. Vu, and Dung D. Le. [Controllable Expensive Multi-objective Optimization with Warm-starting Gaussian Processes](https://arxiv.org/abs/2311.15297). *arXiv:2311.15297*, 2023.
-
-3. **Quang-Huy Nguyen**, Cuong Q. Nguyen, Dung D. Le, and Hieu H. Pham. [Enhancing Few-shot Image Classification with Cosine Transformer](https://ieeexplore.ieee.org/document/10190567/). *IEEE Access*, 2023.
-
-<!-- 4. Dinh-Duy Phan, **Quang-Huy Nguyen**, Thanh-Thien Nguyen, Hoang-Loc Tran, and Duc-Lung Vu. [Joint inter-intra representation learning for pornographic video classification](http://ijeecs.iaescore.com/index.php/IJEECS/article/view/27086). *Indonesian Journal of Electrical Engineering and Computer Science*, 2022.
-
-5. Hoang-Loc Tran, **Quang-Huy Nguyen**, Dinh-Duy Phan, Thanh-Thien Nguyen, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. [Additional learning on object detection: A novel approach in pornography classification](https://link.springer.com/chapter/10.1007/978-981-33-4370-2_22). *In International Conference on Future Data and Security Engineering*. Springer, 2020. 
-
-6. **Quang-Huy Nguyen**, Khac-Ngoc-Khoi Nguyen, Hoang-Loc Tran, Thanh-Thien Nguyen, Dinh-Duy Phan, and Duc-Lung Vu. [Multi-level detector for pornographic content using CNN models](https://ieeexplore.ieee.org/document/9140734). *In 2020 RIVF international conference on computing and communication technologies (RIVF)*. IEEE, 2020. -->
-
-<!-- 4. Dinh-Duy Phan, Thanh Thien Nguyen, **Quang-Huy Nguyen**, Hoang-Loc Tran, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. [LSPD: A Large-Scale Pornographic Dataset for Detection and Classification](https://inass.org/wp-content/uploads/2021/09/2022022819-4.pdf). *International Journal of Intelligent Engineering and Systems*, 2021. -->
-
-<!-- 5. Dinh-Duy Phan, Thanh-Thien Nguyen, **Quang-Huy Nguyen**, Hoang-Loc Tran, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. [A Novel Pornographic Visual Content Classifier based on Sensitive Object Detection](https://thesai.org/Downloads/Volume12No5/Paper_91-A_Novel_Pornographic_Visual_Content_Classifier.pdf). *International Journal of Advanced Computer Science and Applications*, 2021. -->
-
-<!-- 6. Hoang-Loc Tran, **Quang-Huy Nguyen**, Dinh-Duy Phan, Thanh-Thien Nguyen, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. [Additional learning on object detection: A novel approach in pornography classification](https://link.springer.com/chapter/10.1007/978-981-33-4370-2_22). *In International Conference on Future Data and Security Engineering*. Springer, 2020. -->

@@ -101,14 +101,6 @@
                         </li>
                 
                     
-                        <li class="alignable pull-left nav-list"><a href="/page/projects">Projects</a>
-                    
-                    
-                        /
-                    
-                        </li>
-                
-                    
                         <li class="alignable pull-left nav-list"><a href="/page/courses">Relevant Courses</a>
                     
                     
@@ -154,27 +146,27 @@
                 
                 
                 
-                <a target="_blank" href="mailto:quanghuy0497@gmail.com" style="color: #000000;"><span class="glyphicon icon"><i class="fas fa-envelope" style="color: #008000;"></i></span> Email </a> /&thinsp;
+                <b target="_blank" href="https://github.com/quanghuy0497" style="color: #000000; font-size: 14px"><span class="glyphicon icon"><i class="fab fa-github-square" style="color: #008000;"></i></span> GitHub </b> /&thinsp;
 
                 
                 
                 
-                <a target="_blank" href="https://github.com/quanghuy0497" style="color: #000000;"><span class="glyphicon icon"><i class="fab fa-github-square" style="color: #008000;"></i></span> GitHub </a> /&thinsp;
+                <b target="_blank" href="mailto:quanghuy0497@gmail.com" style="color: #000000; font-size: 14px"><span class="glyphicon icon"><i class="fas fa-envelope" style="color: #008000;"></i></span> Email </b> /&thinsp;
 
                 
                 
                 
-                <a target="_blank" href="https://scholar.google.com/citations?hl=en&amp;user=SLjuGgIAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" style="color: #000000;"><span class="glyphicon icon"><i class="fas fa-graduation-cap" style="color: #008000;"></i></span> Scholar </a> /&thinsp;
+                <b target="_blank" href="pdf/Nguyen_Huy_CV_12February2023.pdf" style="color: #000000; font-size: 14px"><span class="glyphicon icon"><i class="fas fa-file" style="color: #008000;"></i></span> Curiculum Vitae </b> /&thinsp;
 
                 
                 
                 
-                <a target="_blank" href="https://www.twitter.com/quanghuy0497" style="color: #000000;"><span class="glyphicon icon"><i class="fab fa-twitter-square" style="color: #008000;"></i></span> Twitter </a> /&thinsp;
+                <b target="_blank" href="https://scholar.google.com/citations?hl=en&amp;user=SLjuGgIAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" style="color: #000000; font-size: 14px"><span class="glyphicon icon"><i class="fas fa-graduation-cap" style="color: #008000;"></i></span> Scholar </b> /&thinsp;
 
                 
                 
                 
-                <a target="_blank" href="pdf/Nguyen_Huy_CV_02February2023.pdf" style="color: #000000;"><span class="glyphicon icon"><i class="fas fa-file" style="color: #008000;"></i></span> CV </a> 
+                <b target="_blank" href="https://www.twitter.com/quanghuy0497" style="color: #000000; font-size: 14px"><span class="glyphicon icon"><i class="fab fa-twitter-square" style="color: #008000;"></i></span> Twitter </b> 
 
                 
             </div>
@@ -184,7 +176,7 @@
 
 <center>
 <br /> <br />
-<b>I am actively looking for a Ph.D. position in Computer Science starting Fall 2024</b>.
+<b><p>I am actively looking for a Ph.D. position in Computer Science starting Fall 2024.</p></b>
 </center>
 
 <p> </p>
@@ -197,9 +189,44 @@
 
 <p> </p>
 
+<h2 id="highlighted-research">Highlighted Research</h2>
+
+<p><img class="paper_right" src="/assets/project/RONIN.png" onclick="onClick(this)" /></p>
+
+<p><a href="http://arxiv.org/abs/2402.03292"><strong>Zero-Shot Object-Level Out-of-Distribution Detection with Context-Aware Inpainting</strong></a><br />
+<strong>Quang-Huy Nguyen</strong>*, <a href="https://scholar.google.com/citations?user=Nf48jqcAAAAJ&amp;hl=en">Jin Zhou</a>*, <a href="https://scholar.google.com/citations?user=dGMjHEwAAAAJ&amp;hl=en">Zhenzhen Liu</a>, <a href="https://scholar.google.com/citations?user=y3kKr_QAAAAJ&amp;hl=en&amp;oi=sra">Huyen Bui</a>, <a href="https://scholar.google.com/citations?user=8RVWMycAAAAJ&amp;hl=en">Kilian Q. Weinberger</a>, <a href="https://scholar.google.com/citations?user=0eoYR1gAAAAJ&amp;hl=en">Dung D. Le</a><br />
+<em>Under review</em>, <strong>2024</strong></p>
+
+<p>In this paper, we tackle <strong>Object-level OOD Detection</strong> without access to the training data, considering object detector as black-box function. We leverages <strong><em>off-the-shelf Diffusion model</em></strong> to replace detected object with in-context inpainting, drawing the input object closer to the in-distribution (ID) domain. Hence, we are able to recognize OOD objects that are erroneously predicted by the object detection model without any re-training effort.</p>
+
+<p><br /></p>
+
+<p><img class="paper_right" src="/assets/project/Co-PSL.png" onclick="onClick(this)" /></p>
+
+<p><a href="http://arxiv.org/abs/2311.15297"><strong>Controllable Expensive Multi-objective Learning with Warm-starting Bayesian Optimization</strong></a><br />
+<strong>Quang-Huy Nguyen</strong>*, <a href="https://scholar.google.com/citations?user=3Dfc1z8AAAAJ&amp;hl=en">Long P. Hoang</a>*, <a href="https://scholar.google.com/citations?hl=en&amp;user=YMt0pEoAAAAJ">Hoang V. Vu</a>, <a href="https://scholar.google.com/citations?user=0eoYR1gAAAAJ&amp;hl=en">Dung D. Le</a><br />
+<em>Under review</em>, <strong>2024</strong></p>
+
+<p>Our work explores <strong>Multi-objective Black-box Optimization</strong> with <strong><em>Pareto Front Learning</em></strong> (PSL), aligning trade-off preferences with corresponding optimal solutions between conflicting objectives. As existing methods often suffer from unstable and inefficient performance when optimizing based on Gaussian Processes (GPs), we then tackle this by leveraging <em>warm-starting Bayesian Optimization</em> to adequately obtain a good approximation of the front first and <em>re-initialize the Pareto Set Model</em> during the opimization steps to stabilize the PSL.</p>
+
+<p><br /></p>
+
+<p><img class="paper_right" src="/assets/project/FSCT.png" onclick="onClick(this)" /></p>
+
+<p><a href="https://ieeexplore.ieee.org/document/10190567/"><strong>Enhancing Few-shot Image Classification with Cosine Transformer</strong></a><br />
+<strong>Quang-Huy Nguyen</strong>, <a href="https://www.linkedin.com/in/quoc-cuong-nguyen-076b91192/">Cuong Q. Nguyen</a>, <a href="https://scholar.google.com/citations?user=0eoYR1gAAAAJ&amp;hl=en">Dung D. Le</a>, <a href="https://scholar.google.com/citations?user=mXcFcNkAAAAJ&amp;hl=en">Hieu H. Pham</a><br />
+<em>IEEE Access</em>, <strong>2023</strong></p>
+
+<p>We explore <strong>Few-shot Image Classification</strong> by proposing <em>a new cross-attention mechanism</em> based on <strong><em>cosine similarity</em></strong> without softmax to further emphasizes the correlation between labeled supports and unlabeled query representations, thus enhancing ViT-based few-shot algorithms across various settings and scenarios compare to convention attention mechanism.</p>
+
+<p> </p>
+
 <h2 id="news">News</h2>
 
 <ul>
+  <li>
+    <p><strong>Feb, 2024</strong>: Our preprint paper about Zero-shot Object-level OOD Detection is published on <a href="http://arxiv.org/abs/2402.03292">arXiv</a>. I have a great opportunity working with Jin Peng Zhou, Zhenzhen Liu, and Prof. <a href="https://www.cs.cornell.edu/~kilian/">Kilian Q. Weinberger</a> (Cornell University) through this joint collaboration.</p>
+  </li>
   <li>
     <p><strong>Dec, 2023</strong>: Our preprint paper about Expensive Multi-objective Optimization is published on <a href="https://arxiv.org/abs/2311.15297">arXiv</a>.</p>
   </li>
@@ -228,34 +255,6 @@
 
 <p> </p>
 
-<h2 style="color:#921dc8;"> Selected Publications</h2>
-
-<ol>
-  <li>
-    <p><strong>Quang-Huy Nguyen</strong>*, Jin-Peng Zhou*, Zhenzhen Liu, Khanh-Huyen Bui, Kilian Q. Weinberger, and Dung D. Le. Zero-Shot Object-Level Out-of-Distribution Detection with Context-Aware Inpainting. ICML’24 under review, 2024.</p>
-  </li>
-  <li>
-    <p><strong>Quang-Huy Nguyen</strong>*, Long P. Hoang*, Hoang V. Vu, and Dung D. Le. <a href="https://arxiv.org/abs/2311.15297">Controllable Expensive Multi-objective Optimization with Warm-starting Gaussian Processes</a>. <em>arXiv:2311.15297</em>, 2023.</p>
-  </li>
-  <li>
-    <p><strong>Quang-Huy Nguyen</strong>, Cuong Q. Nguyen, Dung D. Le, and Hieu H. Pham. <a href="https://ieeexplore.ieee.org/document/10190567/">Enhancing Few-shot Image Classification with Cosine Transformer</a>. <em>IEEE Access</em>, 2023.</p>
-  </li>
-  <li>
-    <p>Dinh-Duy Phan, <strong>Quang-Huy Nguyen</strong>, Thanh-Thien Nguyen, Hoang-Loc Tran, and Duc-Lung Vu. <a href="http://ijeecs.iaescore.com/index.php/IJEECS/article/view/27086">Joint inter-intra representation learning for pornographic video classification</a>. <em>Indonesian Journal of Electrical Engineering and Computer Science</em>, 2022.</p>
-  </li>
-  <li>
-    <p>Hoang-Loc Tran, <strong>Quang-Huy Nguyen</strong>, Dinh-Duy Phan, Thanh-Thien Nguyen, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. <a href="https://link.springer.com/chapter/10.1007/978-981-33-4370-2_22">Additional learning on object detection: A novel approach in pornography classification</a>. <em>In International Conference on Future Data and Security Engineering</em>. Springer, 2020.</p>
-  </li>
-  <li>
-    <p><strong>Quang-Huy Nguyen</strong>, Khac-Ngoc-Khoi Nguyen, Hoang-Loc Tran, Thanh-Thien Nguyen, Dinh-Duy Phan, and Duc-Lung Vu. <a href="https://ieeexplore.ieee.org/document/9140734">Multi-level detector for pornographic content using CNN models</a>. <em>In 2020 RIVF international conference on computing and communication technologies (RIVF)</em>. IEEE, 2020.</p>
-  </li>
-</ol>
-
-<!-- 4. Dinh-Duy Phan, Thanh Thien Nguyen, **Quang-Huy Nguyen**, Hoang-Loc Tran, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. [LSPD: A Large-Scale Pornographic Dataset for Detection and Classification](https://inass.org/wp-content/uploads/2021/09/2022022819-4.pdf). *International Journal of Intelligent Engineering and Systems*, 2021. -->
-
-<!-- 5. Dinh-Duy Phan, Thanh-Thien Nguyen, **Quang-Huy Nguyen**, Hoang-Loc Tran, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. [A Novel Pornographic Visual Content Classifier based on Sensitive Object Detection](https://thesai.org/Downloads/Volume12No5/Paper_91-A_Novel_Pornographic_Visual_Content_Classifier.pdf). *International Journal of Advanced Computer Science and Applications*, 2021. -->
-
-<!-- 6. Hoang-Loc Tran, **Quang-Huy Nguyen**, Dinh-Duy Phan, Thanh-Thien Nguyen, Khac-Ngoc-Khoi Nguyen, and Duc-Lung Vu. [Additional learning on object detection: A novel approach in pornography classification](https://link.springer.com/chapter/10.1007/978-981-33-4370-2_22). *In International Conference on Future Data and Security Engineering*. Springer, 2020. -->
 
                 
                     <hr />
