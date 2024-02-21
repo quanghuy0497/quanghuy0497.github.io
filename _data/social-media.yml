@@ -26,7 +26,7 @@ cv:
   href: 'pdf/'
   title: 'Curriculum Vitae'
   fa-icon: 'fas fa-file'
-  space: ''
+  space: '/&thinsp;'
 
 scholar:
   id: 'citations?hl=en&user=SLjuGgIAAAAJ&view_op=list_works&sortby=pubdate'
@@ -40,7 +40,7 @@ twitter:
   href: 'https://www.twitter.com/'
   title: 'Twitter'
   fa-icon: 'fab fa-twitter-square'
-  space: '/&thinsp;'
+  space: ''
 
 # instagram:
 #   id: 'quanghuy0497'
