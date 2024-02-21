@@ -16,13 +16,15 @@ I am currently a research resident at [FPT Software AI Residency program](https:
 
 ## Research interests
 
-My research interests include *meta-learning*, *domain adaptation*, and *black-box optimization* for lifelong and open-world *machine learning*, especially in *computer vision*. My research goal is to develop machine learning algorithms that continuously learn with minimal data or supervision and effectively adapt to other domains outside the training data. I am also interested in exploring the connection between optimization and machine learning toward effective lifelong and open-world AI systems.
+My research interests include ***meta-learning***, ***domain adaptation***, and ***black-box optimization*** for *lifelong and open-world* machine learning, especially in ***computer vision***. My research goal is to develop machine learning algorithms that continuously learn with minimal data or supervision and effectively adapt to other domains outside the training data. 
 
-Details of my research interests are presented and discussed [here](https://quanghuy0497.github.io/page/research).
+I am also interested in exploring the connection between optimization and machine learning for effective and generalizable learning algorithms.
+
+Details of my research interests are discussed [here](https://quanghuy0497.github.io/page/research).
 
 &thinsp;
 
-## Highlighted Research
+## Highlighted Publications
 
  
 <img class="paper_right" src="/assets/project/RONIN.png" onclick="onClick(this)" >
@@ -31,7 +33,7 @@ Details of my research interests are presented and discussed [here](https://quan
 **Quang-Huy Nguyen**\*, [Jin Zhou](https://scholar.google.com/citations?user=Nf48jqcAAAAJ&hl=en)\*, [Zhenzhen Liu](https://scholar.google.com/citations?user=dGMjHEwAAAAJ&hl=en), [Huyen Bui](https://scholar.google.com/citations?user=y3kKr_QAAAAJ&hl=en&oi=sra), [Kilian Q. Weinberger](https://scholar.google.com/citations?user=8RVWMycAAAAJ&hl=en), [Dung D. Le](https://scholar.google.com/citations?user=0eoYR1gAAAAJ&hl=en)  
 *Under review*, **2024**  
 
-In this paper, we tackle **Object-level OOD Detection** without access to the training data, considering object detector as black-box function. We leverages ***off-the-shelf Diffusion model*** to replace detected object with in-context inpainting, drawing the input object closer to the in-distribution (ID) domain. Hence, we are able to recognize OOD objects that are erroneously predicted by the object detection model without any re-training effort.
+Our paper tackles **Object-level OOD Detection** without access to the training data, considering object detector as a black-box function. We leverages ***off-the-shelf Diffusion model*** to replace detected object with in-context inpainting, drawing the input object closer to the in-distribution (ID) domain. Hence, we are able to recognize OOD objects that are erroneously predicted by the object detection model without any re-training effort.
 
 <br>
 
@@ -51,7 +53,7 @@ Our work explores **Multi-objective Black-box Optimization** with ***Pareto Fron
 **Quang-Huy Nguyen**, [Cuong Q. Nguyen](https://www.linkedin.com/in/quoc-cuong-nguyen-076b91192/), [Dung D. Le](https://scholar.google.com/citations?user=0eoYR1gAAAAJ&hl=en), [Hieu H. Pham](https://scholar.google.com/citations?user=mXcFcNkAAAAJ&hl=en)  
 *IEEE Access*, **2023**
 
-We explore **Few-shot Image Classification** by proposing *a new cross-attention mechanism* based on ***cosine similarity*** without softmax to further emphasizes the correlation between labeled supports and unlabeled query representations, thus enhancing ViT-based few-shot algorithms across various settings and scenarios compare to convention attention mechanism. 
+We explore **Few-shot Image Classification** by proposing *a new cross-attention mechanism* based on ***cosine similarity***, without using softmax, to further emphasizes the correlation between labeled supports and unlabeled query representations, thus enhancing ViT-based few-shot algorithms across various settings and scenarios compare to convention attention mechanism. 
 
 
 &thinsp;
