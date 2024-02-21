@@ -22,7 +22,7 @@ Details of my research interests are presented and discussed [here](https://quan
 
 &thinsp;
 
-## News
+<!-- ## News
 
 - **Feb, 2024**: Our preprint paper about Zero-shot Object-level OOD Detection is published on [arXiv](http://arxiv.org/abs/2402.03292). I have a great opportunity working with Jin Peng Zhou, Zhenzhen Liu, and Prof. [Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/) (Cornell University) through this joint collaboration.
 
@@ -42,7 +42,7 @@ Details of my research interests are presented and discussed [here](https://quan
 
 - **Jul, 2019**: I become research assistant at [Faculty of Computer Engineering](https://fce.uit.edu.vn/), University of Information Technology, VNU-HCM.
 
-&thinsp;
+&thinsp; -->
 
 <h2 style="color:#921dc8;"> Selected Publications</h2>
 
