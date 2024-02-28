@@ -69,7 +69,7 @@ We explore **Few-shot Image Classification** by proposing *a new cross-attention
 
 - **Aug, 2023**: I become AI Research Resident at [FPTSoftware AI Center](https://ai.fpt-software.com/ai-residency/), Ho Chi Minh City. 
   
-- **July, 2023**: Our paper Few-shot Cosine Transformer is accepted at [IEEE Access](https://ieeexplore.ieee.org/document/10190567/) (Q1, IF 3.476).
+- **Jul, 2023**: Our paper Few-shot Cosine Transformer is accepted at [IEEE Access](https://ieeexplore.ieee.org/document/10190567/) (Q1, IF 3.476).
   
 - **Feb, 2023**: I become Research Assistant at [College of Engineering and Computer Science](https://vinuni.edu.vn/college-of-engineering-computer-science/), VinUniversity.
 
