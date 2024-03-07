@@ -1,6 +1,6 @@
 ## About Me
 
-<img class="profile-picture" src="/assets/profile/profile.jpg">
+<img class="profile-picture" src="/assets/profile/Profile_2024.png">
 
 
 I am currently a research resident at [FPT Software AI Residency program](https://ai.fpt-software.com/ai-residency/) under the mentorship of Dr. [Duy-Dung Le](https://andrew-dungle.github.io/) (Assist. Prof. at VinUniversity). Before that, I was a research assistant at [College of Engineering and Computer Science (CECS)](https://vinuni.edu.vn/college-of-engineering-computer-science/) in early 2023, and [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/) in 2022 at VinUniversity, where I was mentored by Assist. Prof. Duy-Dung Le and Assist. Prof. [Huy-Hieu Pham](https://huyhieupham.github.io/), respectively. Before VinUni, I worked as an undergraduate research assistant from 2019 to 2021 at the [University of Information Technology](https://en.uit.edu.vn/) (UIT, VNU-HCM) under the supervision of Assoc. Prof. [Duc-Lung Vu](https://sites.google.com/uit.edu.vn/lungvd) while achieving my bachelor's degree there in late 2020.
@@ -69,7 +69,7 @@ We explore **Few-shot Image Classification** by proposing *a new cross-attention
 
 - **Aug, 2023**: I become AI Research Resident at [FPTSoftware AI Center](https://ai.fpt-software.com/ai-residency/), Ho Chi Minh City. 
   
-- **July, 2023**: Our paper Few-shot Cosine Transformer is accepted at [IEEE Access](https://ieeexplore.ieee.org/document/10190567/) (Q1, IF 3.476).
+- **Jul, 2023**: Our paper Few-shot Cosine Transformer is accepted at [IEEE Access](https://ieeexplore.ieee.org/document/10190567/) (Q1, IF 3.476).
   
 - **Feb, 2023**: I become Research Assistant at [College of Engineering and Computer Science](https://vinuni.edu.vn/college-of-engineering-computer-science/), VinUniversity.
 
