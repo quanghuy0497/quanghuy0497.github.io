@@ -7,10 +7,10 @@ I am currently a research resident at [FPT Software AI Residency program](https:
 
 {% include social_media_links.html %}
 
-<center>
+<!-- <center>
 <br> <br>
-<b><p>I am actively looking for a Ph.D. position in Computer Science starting Fall 2024.</p></b>
-</center>
+<b><p>some text here</p></b>
+</center> -->
 
 &thinsp;
 
@@ -61,11 +61,9 @@ We explore **Few-shot Image Classification** by proposing *a new cross-attention
 
 ## News
 
-<!-- - **Feb, 2024**: Our preprint paper about Zero-shot Object-level OOD Detection is published on [arXiv](http://arxiv.org/abs/2402.03292). I have a great opportunity working with Jin Peng Zhou, Zhenzhen Liu, and Prof. [Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/) (Cornell University) through this joint collaboration. -->
-
-<!-- - **Dec, 2023**: Our preprint paper about Expensive Multi-objective Optimization is published on [arXiv](https://arxiv.org/abs/2311.15297).  -->
-
-<!-- - **Aug, 2023**: I participate in the [10th Vietname Summer School of Science](https://www.truonghekhoahoc.com/10years/) at [International Centre for Interdisciplinary Science and Education](https://www.icisequynhon.com/), Quy Nhon, Vietnam. -->
+- **Apr, 2024**: I am an incoming Ph.D. student at the Ohio State University in Fall 2024 term, working under the supervision of Prof. [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao/home) 🥳🥳🥳  
+  
+- **Aug, 2023**: I participate in the [10th Vietname Summer School of Science](https://www.truonghekhoahoc.com/10years/) at [International Centre for Interdisciplinary Science and Education](https://www.icisequynhon.com/), Quy Nhon, Vietnam.
 
 - **Aug, 2023**: I become AI Research Resident at [FPTSoftware AI Center](https://ai.fpt-software.com/ai-residency/), Ho Chi Minh City. 
   
