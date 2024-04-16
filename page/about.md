@@ -61,7 +61,7 @@ We explore **Few-shot Image Classification** by proposing *a new cross-attention
 
 ## News
 
-- **Apr, 2024**: I am an going to the Ohio State University to pursue PhD in Computer Science in Fall 2024, working with Prof. [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao/home) 🥳🥳🥳  
+- **Apr, 2024**: I am an going to the Ohio State University to pursue Ph.D. in Computer Science starting Fall 2024, guided by Prof. [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao/home) 🥳🥳🥳  
   
 - **Aug, 2023**: I participate in the [10th Vietname Summer School of Science](https://www.truonghekhoahoc.com/10years/) at [International Centre for Interdisciplinary Science and Education](https://www.icisequynhon.com/), Quy Nhon, Vietnam.
 
