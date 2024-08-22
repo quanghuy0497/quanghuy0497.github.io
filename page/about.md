@@ -2,15 +2,10 @@
 
 <img class="profile-picture" src="/assets/profile/Profile_2024.png">
 
-
-I am currently a research resident at [FPT Software AI Residency program](https://ai.fpt-software.com/ai-residency/) under the mentorship of Dr. [Duy-Dung Le](https://andrew-dungle.github.io/) (Assist. Prof. at VinUniversity). Before that, I was a research assistant at [College of Engineering and Computer Science (CECS)](https://vinuni.edu.vn/college-of-engineering-computer-science/) in early 2023, and [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/) in 2022 at VinUniversity, where I was mentored by Assist. Prof. Duy-Dung Le and Assist. Prof. [Huy-Hieu Pham](https://huyhieupham.github.io/), respectively. Before VinUni, I worked as an undergraduate research assistant from 2019 to 2021 at the [University of Information Technology](https://en.uit.edu.vn/) (UIT, VNU-HCM) under the supervision of Assoc. Prof. [Duc-Lung Vu](https://sites.google.com/uit.edu.vn/lungvd) while achieving my bachelor's degree there in late 2020.
+I am currently a first-year Ph.D. student at the Ohio State University under the supervision of Assist. Prof. [Wei-Lun Chao](https://sites.google.com/view/wei-lun-harry-chao/home). Before that, I obtained my bachelor degree in Computer Engineering at [University of Information Technology](https://en.uit.edu.vn/), Vietnam National University Ho Chi Minh City in late 2020, and was a research assistant at [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/), [College of Engineering and Computer Science, VinUni](https://vinuni.edu.vn/college-of-engineering-computer-science/), and AI research resident at [FPT Software AI Residency program](https://fpt-aicenter.com/en/ai-residency), mentored by Assist. Prof [Dung D. Le](https://andrew-dungle.github.io/) (VinUniversity) between 2022 and 2024. More detailed can be found in my CV (update July 2024).
 
 {% include social_media_links.html %}
 
-<!-- <center>
-<br> <br>
-<b><p>some text here</p></b>
-</center> -->
 
 &thinsp;
 
@@ -60,12 +55,11 @@ We explore **Few-shot Image Classification** by proposing *a new cross-attention
 
 
 ## News
-
 - **Apr, 2024**: I am an going to the Ohio State University to pursue Ph.D. in Computer Science starting Fall 2024, guided by Prof. [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao/home) 🥳🥳🥳  
-  
+    
 - **Aug, 2023**: I participate in the [10th Vietname Summer School of Science](https://www.truonghekhoahoc.com/10years/) at [International Centre for Interdisciplinary Science and Education](https://www.icisequynhon.com/), Quy Nhon, Vietnam.
 
-- **Aug, 2023**: I become AI Research Resident at [FPTSoftware AI Center](https://ai.fpt-software.com/ai-residency/), Ho Chi Minh City. 
+- **Aug, 2023**: I become AI Research Resident at [FPTSoftware AI Center](https://ai.fpt-software.com/ai-residency/), Ho Chi Minh City.
   
 - **Jul, 2023**: Our paper Few-shot Cosine Transformer is accepted at [IEEE Access](https://ieeexplore.ieee.org/document/10190567/) (Q1, IF 3.476).
   
