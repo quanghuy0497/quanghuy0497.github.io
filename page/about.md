@@ -23,11 +23,12 @@ Details of my research interests are discussed [here](https://quanghuy0497.githu
 
 <img class="paper_right" src="/assets/project/PHN.png" onclick="onClick(this)" >
 
-[**Improving Pareto Set Learning for Expensive Multi-objective Optimization via Stein Variational Hypernetworks**](https://arxiv.org/abs/2412.17312)  Minh-Duc Nguyen, Phuong Mai Dinh,
+[**Improving Pareto Set Learning for Expensive Multi-objective Optimization via Stein Variational Hypernetworks**](https://arxiv.org/abs/2412.17312)  
+Minh-Duc Nguyen, Phuong Mai Dinh,
 **Quang-Huy Nguyen**, Long P. Hoang, [Dung D. Le](https://scholar.google.com/citations?user=0eoYR1gAAAAJ&hl=en)  
 *AAAI*, **2025**  
 
-Our work explores **Expensive Multi-Objective Optimization** (Multi-objective Black-box Optimization) with ***Pareto Set Learning*** by integrating Stein Variational Gradient Descent with Hypernetworks for Stein Variational Hypernetwork for efficient Pareto Set learning (SVH-PSL). By addressing the fragmented, uncertain regions caused by Gaussian Processes with Lower Confidence Bound (a common approach for multi-objective Bayesian optimization) that lead to suboptimal learned Pareto solutions, SVH-PSL establishes a robust relationship between trade-off reference vectors and the corresponding true Pareto solutions, offering promising solutions for expensive multi-objective optimization problems.
+Our work explores **Expensive Multi-Objective Optimization** by introducing the Stein Variational Hypernetwork (SVH-PSL), which integrates Stein Variational Gradient Descent with Hypernetworks. SVH-PSL overcomes fragmented and uncertain regions often caused by Gaussian Processes with Lower Confidence Bound, ensuring a robust mapping between trade-off reference vectors and true Pareto solutions for Pareto-set learning, offering promising results for expensive multi-objective optimization problems.
 <br>
  
 <!-- <img class="paper_right" src="/assets/project/RONIN.png" onclick="onClick(this)" >
