@@ -21,8 +21,16 @@ Details of my research interests are discussed [here](https://quanghuy0497.githu
 
 ## Highlighted Publications
 
+<img class="paper_right" src="/assets/project/PHN.png" onclick="onClick(this)" >
+
+[**Improving Pareto Set Learning for Expensive Multi-objective Optimization via Stein Variational Hypernetworks**](https://arxiv.org/abs/2412.17312)  Minh-Duc Nguyen, Phuong Mai Dinh,
+**Quang-Huy Nguyen**, Long P. Hoang, [Dung D. Le](https://scholar.google.com/citations?user=0eoYR1gAAAAJ&hl=en)  
+*AAAI*, **2025**  
+
+Our work explores **Expensive Multi-Objective Optimization** (Multi-objective Black-box Optimization) with ***Pareto Set Learning*** by integrating Stein Variational Gradient Descent with Hypernetworks for Stein Variational Hypernetwork for efficient Pareto Set learning (SVH-PSL). By addressing the fragmented, uncertain regions caused by Gaussian Processes with Lower Confidence Bound (a common approach for multi-objective Bayesian optimization) that lead to suboptimal learned Pareto solutions, SVH-PSL establishes a robust relationship between trade-off reference vectors and the corresponding true Pareto solutions, offering promising solutions for expensive multi-objective optimization problems.
+<br>
  
-<img class="paper_right" src="/assets/project/RONIN.png" onclick="onClick(this)" >
+<!-- <img class="paper_right" src="/assets/project/RONIN.png" onclick="onClick(this)" >
 
 [**Zero-Shot Object-Level Out-of-Distribution Detection with Context-Aware Inpainting**](http://arxiv.org/abs/2402.03292)  
 **Quang-Huy Nguyen**\*, [Jin Zhou](https://scholar.google.com/citations?user=Nf48jqcAAAAJ&hl=en)\*, [Zhenzhen Liu](https://scholar.google.com/citations?user=dGMjHEwAAAAJ&hl=en), [Huyen Bui](https://scholar.google.com/citations?user=y3kKr_QAAAAJ&hl=en&oi=sra), [Kilian Q. Weinberger](https://scholar.google.com/citations?user=8RVWMycAAAAJ&hl=en), [Dung D. Le](https://scholar.google.com/citations?user=0eoYR1gAAAAJ&hl=en)  
@@ -30,9 +38,9 @@ Details of my research interests are discussed [here](https://quanghuy0497.githu
 
 Our paper tackles **Object-level OOD Detection** without access to the training data, considering object detector as a black-box function. We leverages ***off-the-shelf Diffusion model*** to replace detected object with in-context inpainting, drawing the input object closer to the in-distribution (ID) domain. Hence, we are able to recognize OOD objects that are erroneously predicted by the object detection model without any re-training effort.
 
-<br>
+<br>  -->
 
-<img class="paper_right" src="/assets/project/Co-PSL.png" onclick="onClick(this)" >
+<!-- <img class="paper_right" src="/assets/project/Co-PSL.png" onclick="onClick(this)" >
 
 [**Controllable Expensive Multi-objective Learning with Warm-starting Bayesian Optimization**](http://arxiv.org/abs/2311.15297)  
 **Quang-Huy Nguyen**\*, [Long P. Hoang](https://scholar.google.com/citations?user=3Dfc1z8AAAAJ&hl=en)\*, [Hoang V. Vu](https://scholar.google.com/citations?hl=en&user=YMt0pEoAAAAJ), [Dung D. Le](https://scholar.google.com/citations?user=0eoYR1gAAAAJ&hl=en)  
@@ -40,7 +48,7 @@ Our paper tackles **Object-level OOD Detection** without access to the training 
 
 Our work explores **Multi-objective Black-box Optimization** with ***Pareto Front Learning*** (PSL), aligning trade-off preferences with corresponding optimal solutions between conflicting objectives. As existing methods often suffer from unstable and inefficient performance when optimizing based on Gaussian Processes (GPs), we then tackle this by leveraging *warm-starting Bayesian Optimization* to adequately obtain a good approximation of the front first and *re-initialize the Pareto Set Model* during the opimization steps to stabilize the PSL.
 
-<br>
+<br> -->
 
 <img class="paper_right" src="/assets/project/Cosine_Attention.png" onclick="onClick(this)" >
 
@@ -55,7 +63,10 @@ We explore **Few-shot Image Classification** by proposing *a new cross-attention
 
 
 ## News
-- **Apr, 2024**: I am an going to the Ohio State University to pursue Ph.D. in Computer Science starting Fall 2024, guided by Prof. [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao/home) 🥳🥳🥳  
+
+- **Dec, 2024**: Our paper [Improving Pareto Set Learning for Expensive Multi-objective Optimization via Stein Variational Hypernetworks](https://arxiv.org/abs/2412.17312) is accepted at AAAI 2025.
+
+- **Apr, 2024**: I am an going to the Ohio State University to pursue Ph.D. in Computer Science starting Fall 2024, guided by Prof. [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao/home).
     
 - **Aug, 2023**: I participate in the [10th Vietname Summer School of Science](https://www.truonghekhoahoc.com/10years/) at [International Centre for Interdisciplinary Science and Education](https://www.icisequynhon.com/), Quy Nhon, Vietnam.
 
