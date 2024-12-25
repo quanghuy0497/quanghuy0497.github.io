@@ -24,14 +24,13 @@ Details of my research interests are discussed [here](https://quanghuy0497.githu
 <img class="paper_right" src="/assets/project/PHN.png" onclick="onClick(this)" >
 
 [**Improving Pareto Set Learning for Expensive Multi-objective Optimization via Stein Variational Hypernetworks**](https://arxiv.org/abs/2412.17312)  
-Minh-Duc Nguyen, Phuong Mai Dinh,
-**Quang-Huy Nguyen**, Long P. Hoang, Dung D. Le  
+Minh-Duc Nguyen, Phuong Mai Dinh, **Quang-Huy Nguyen**, Long P. Hoang, Dung D. Le  
 *AAAI*, **2025**  
 
 Our work explores **Expensive Multi-Objective Optimization** by introducing the Stein Variational Hypernetwork for Pareto Set Learning to overcome fragmented and uncertain regions in surrogate models while still maintain the diversity of the learned solutions, offering promising results for expensive multi-objective optimization problems.
 <br>
  
-<!-- <img class="paper_right" src="/assets/project/RONIN.png" onclick="onClick(this)" >
+<img class="paper_right" src="/assets/project/RONIN.png" onclick="onClick(this)" >
 
 [**Zero-Shot Object-Level Out-of-Distribution Detection with Context-Aware Inpainting**](http://arxiv.org/abs/2402.03292)  
 **Quang-Huy Nguyen**\*, [Jin Zhou](https://scholar.google.com/citations?user=Nf48jqcAAAAJ&hl=en)\*, [Zhenzhen Liu](https://scholar.google.com/citations?user=dGMjHEwAAAAJ&hl=en), [Huyen Bui](https://scholar.google.com/citations?user=y3kKr_QAAAAJ&hl=en&oi=sra), [Kilian Q. Weinberger](https://scholar.google.com/citations?user=8RVWMycAAAAJ&hl=en), [Dung D. Le](https://scholar.google.com/citations?user=0eoYR1gAAAAJ&hl=en)  
@@ -39,7 +38,7 @@ Our work explores **Expensive Multi-Objective Optimization** by introducing the 
 
 Our paper tackles **Object-level OOD Detection** without access to the training data, considering object detector as a black-box function. We leverages ***off-the-shelf Diffusion model*** to replace detected object with in-context inpainting, drawing the input object closer to the in-distribution (ID) domain. Hence, we are able to recognize OOD objects that are erroneously predicted by the object detection model without any re-training effort.
 
-<br>  -->
+<br> 
 
 <!-- <img class="paper_right" src="/assets/project/Co-PSL.png" onclick="onClick(this)" >
 
