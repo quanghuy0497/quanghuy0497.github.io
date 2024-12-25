@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+    <style>
+        span.fa-stack {
+            display: none !important;
+        }
+    </style>
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <link rel="shortcut icon" href="/assets/profile/favicon.png" type="image/x-icon">
     <link rel="icon" href="/assets/profile/favicon.png" type="image/x-icon">
@@ -145,6 +151,8 @@
           ga('send', 'pageview');
         </script>
     {% endif %}
+
+    
 </body>
 <footer>
     {% include footer.html %}

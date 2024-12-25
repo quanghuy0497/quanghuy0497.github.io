@@ -84,3 +84,9 @@ We explore **Few-shot Image Classification** by proposing *a new cross-attention
 
 &thinsp;
 
+## Contact
+
+**My email**: <a href="mailto:nguyen.2959@osu.edu"><b>nguyen</b>&#95;dot&#95;<b>2959</b>&#95;at&#95;<span style="display:none;">ignoreme-</span><b>osu</b>&#95;dot&#95;<b>edu</b></a>
+
+
+&thinsp;
