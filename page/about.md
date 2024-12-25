@@ -25,10 +25,10 @@ Details of my research interests are discussed [here](https://quanghuy0497.githu
 
 [**Improving Pareto Set Learning for Expensive Multi-objective Optimization via Stein Variational Hypernetworks**](https://arxiv.org/abs/2412.17312)  
 Minh-Duc Nguyen, Phuong Mai Dinh,
-**Quang-Huy Nguyen**, Long P. Hoang, Dung D. Le
+**Quang-Huy Nguyen**, Long P. Hoang, Dung D. Le  
 *AAAI*, **2025**  
 
-Our work explores **Expensive Multi-Objective Optimization** by introducing the Stein Variational Hypernetwork for Pareto Set Learning (SVH-PSL), overcoming fragmented and uncertain regions in surrogate models while maintaining diversity and exploration of the learned solutions, thus offering promising results for expensive multi-objective optimization problems.
+Our work explores **Expensive Multi-Objective Optimization** by introducing the Stein Variational Hypernetwork for Pareto Set Learning to overcome fragmented and uncertain regions in surrogate models while still maintain the diversity of the learned solutions, offering promising results for expensive multi-objective optimization problems.
 <br>
  
 <!-- <img class="paper_right" src="/assets/project/RONIN.png" onclick="onClick(this)" >
