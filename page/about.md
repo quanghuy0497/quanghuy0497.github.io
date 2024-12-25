@@ -40,15 +40,15 @@ Our paper tackles **Object-level OOD Detection** without access to the training 
 
 <br> 
 
-<!-- <img class="paper_right" src="/assets/project/Co-PSL.png" onclick="onClick(this)" >
+<img class="paper_right" src="/assets/project/Co-PSL.png" onclick="onClick(this)" >
 
 [**Controllable Expensive Multi-objective Learning with Warm-starting Bayesian Optimization**](http://arxiv.org/abs/2311.15297)  
 **Quang-Huy Nguyen**\*, [Long P. Hoang](https://scholar.google.com/citations?user=3Dfc1z8AAAAJ&hl=en)\*, [Hoang V. Vu](https://scholar.google.com/citations?hl=en&user=YMt0pEoAAAAJ), [Dung D. Le](https://scholar.google.com/citations?user=0eoYR1gAAAAJ&hl=en)  
 *Under review*, **2024**
 
-Our work explores **Multi-objective Black-box Optimization** with ***Pareto Front Learning*** (PSL), aligning trade-off preferences with corresponding optimal solutions between conflicting objectives. As existing methods often suffer from unstable and inefficient performance when optimizing based on Gaussian Processes (GPs), we then tackle this by leveraging *warm-starting Bayesian Optimization* to adequately obtain a good approximation of the front first and *re-initialize the Pareto Set Model* during the opimization steps to stabilize the PSL.
+Our work explores **Multi-objective Black-box Optimization** with ***Pareto Front Learning***, aligning trade-off preferences with corresponding optimal solutions between conflicting objectives. As existing methods often suffer from unstable and inefficient performance when optimizing based on Gaussian Processes, we then tackle this by leveraging *warm-starting Bayesian Optimization* to adequately obtain a good approximation of the front first and *re-initialize the Pareto Set Model* during the opimization steps to stabilize the PSL.
 
-<br> -->
+<br>
 
 <img class="paper_right" src="/assets/project/Cosine_Attention.png" onclick="onClick(this)" >
 
