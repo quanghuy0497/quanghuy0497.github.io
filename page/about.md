@@ -2,7 +2,12 @@
 
 <img class="profile-picture" src="/assets/profile/Profile_2024.png">
 
-I am currently a first-year Ph.D. student at the Ohio State University under the supervision of Assist. Prof. [Wei-Lun Chao](https://sites.google.com/view/wei-lun-harry-chao/home). Before that, I obtained my bachelor degree in Computer Engineering at [University of Information Technology](https://en.uit.edu.vn/), Vietnam National University Ho Chi Minh City in late 2020, and was a research assistant at [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/), [College of Engineering and Computer Science, VinUni](https://vinuni.edu.vn/college-of-engineering-computer-science/), and AI research resident at [FPT Software AI Residency program](https://fpt-aicenter.com/en/ai-residency), mentored by Assist. Prof [Dung D. Le](https://andrew-dungle.github.io/) (VinUniversity) between 2022 and 2024. More detailed can be found in my CV (updated December 2024).
+I am currently a first-year Ph.D. student in Computer Science at [**the Ohio State University**](https://cse.osu.edu/), supervised by Prof. [**Wei-Lun Chao**](https://sites.google.com/view/wei-lun-harry-chao/home). I am generally interested in machine learning and computer vision for open-world machine learning with imperfect data.
+
+I obtained my bachelor degree in Computer Engineering at [University of Information Technology](https://en.uit.edu.vn/), Vietnam National University Ho Chi Minh City in late 2020. From 2022 to 2024, I was a research assistant at [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/), [College of Engineering and Computer Science, VinUni](https://vinuni.edu.vn/college-of-engineering-computer-science/), and AI research resident at [FPT Software AI Residency program](https://fpt-aicenter.com/en/ai-residency), mentored by Prof [Dung D. Le](https://andrew-dungle.github.io/) (VinUniversity). More detailed can be found in my CV (updated December 2024).
+
+**My contact email**: <a href="mailto:nguyen.2959@osu.edu"><b>nguyen</b>&#95;dot&#95;<b>2959</b>&#95;at&#95;<span style="display:none;">ignoreme-</span><b>osu</b>&#95;dot&#95;<b>edu</b></a>
+
 
 {% include social_media_links.html %}
 
@@ -66,7 +71,7 @@ We explore **Few-shot Image Classification** by proposing *a new cross-attention
 
 - **Dec, 2024**: Our paper [Improving Pareto Set Learning for Expensive Multi-objective Optimization via Stein Variational Hypernetworks](https://arxiv.org/abs/2412.17312) is accepted at AAAI 2025.
 
-- **Apr, 2024**: I am an going to the Ohio State University to pursue Ph.D. in Computer Science starting Fall 2024, guided by Prof. [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao/home).
+- **Aug, 2024**: I become PhD student in Computer Science and Enginering at the Ohio State University, advised by Prof. [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao/home).
     
 - **Aug, 2023**: I participate in the [10th Vietname Summer School of Science](https://www.truonghekhoahoc.com/10years/) at [International Centre for Interdisciplinary Science and Education](https://www.icisequynhon.com/), Quy Nhon, Vietnam.
 
@@ -81,12 +86,5 @@ We explore **Few-shot Image Classification** by proposing *a new cross-attention
 - **Dec, 2020**: I obtain a Bachelor degree in Computer Engineering at University of Information Technology, VNU-HCM.
 
 - **Jul, 2019**: I become Research Assistant at [Faculty of Computer Engineering](https://fce.uit.edu.vn/), University of Information Technology, VNU-HCM.
-
-&thinsp;
-
-## Contact
-
-**My email**: <a href="mailto:nguyen.2959@osu.edu"><b>nguyen</b>&#95;dot&#95;<b>2959</b>&#95;at&#95;<span style="display:none;">ignoreme-</span><b>osu</b>&#95;dot&#95;<b>edu</b></a>
-
 
 &thinsp;
