@@ -1,12 +1,5 @@
 # https://fontawesome.com/icons
 
-github:
-  id: 'quanghuy0497'
-  href: 'https://github.com/'
-  title: 'GitHub'
-  fa-icon: 'fab fa-github-square'
-  space: '/&thinsp;'
-
 # email:
 #   id: 'nguyen.2959@osu.edu' #'quanghuy0497@gmail.com'
 #   href: 'mailto:'
@@ -19,6 +12,13 @@ cv:
   href: 'pdf/'
   title: 'Curiculum Vitae'
   fa-icon: 'fas fa-file'
+  space: '/&thinsp;'
+
+github:
+  id: 'quanghuy0497'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fab fa-github-square'
   space: '/&thinsp;'
 
 facebook:
