@@ -1,6 +1,6 @@
 ## About Me
 
-<img class="profile-picture" src="/assets/profile/Profile_2025.jpg">
+<img class="profile-picture" src="/assets/profile/Profile_2025.png">
 
 I am currently a first-year Ph.D. student in Computer Science at [**the Ohio State University**](https://cse.osu.edu/), supervised by Prof. [**Wei-Lun Chao**](https://sites.google.com/view/wei-lun-harry-chao/home). I am generally interested in machine learning and computer vision for open-world machine learning with imperfect data.
 
