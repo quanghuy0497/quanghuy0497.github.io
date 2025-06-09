@@ -16,9 +16,9 @@ I obtained my bachelor degree in Computer Engineering at [University of Informat
 
 ## Research Interests
 
-My research interests include ***meta-learning***, ***uncertainty estimation***, and ***domain adaptation*** for *lifelong and open-world* machine learning, especially in ***computer vision***. My research goal is to develop machine learning algorithms that continuously learn with impefect data or minimal human supervision and effectively adapt to other domains effectively.
+My research focuses on **meta-learning** (e.g., *zero-shot/few-shot learning*), **uncertainty estimation** (e.g., *out-of-distribution detection*, *distribution-shift uncertainty*), and **domain adaptation** (e.g., *continual learning*, *domain distillation*) in the context of general machine learning and computer vision problems. I am particularly interested in developing methods for **learning with imperfect data** (e.g., limited, noisy, or imbalanced datasets) under **minimal human supervision** (e.g., semi-supervised learning), while enabling effective **extrapolation to unseen domains**. 
 
-I am also interested in exploring the connection between black-box optimization and uncertainty estimation for effective and generalizable machine learning learning algorithms.
+Additionally, I am also interested in eploring the intersection of **black-box optimization** and **uncertainty estimation** to advance lifelong and open-world learning systems.
 
 Details of my research interests are discussed [here](https://quanghuy0497.github.io/page/research).
 
@@ -27,7 +27,7 @@ Details of my research interests are discussed [here](https://quanghuy0497.githu
 ## Publications and Preprints
 
 
-<img class="paper_right" src="/assets/project/V-PET.png" onclick="onClick(this)" >
+<img class="paper_right" src="/assets/project/V-PET_2025.png" onclick="onClick(this)" >
 
 [**Revisiting Semi-Supervised Learning in the Era of Foundation Models**](https://arxiv.org/pdf/2503.09707)  
 Zheda Mai\*, Ping Zhang\*, **Quang-Huy Nguyen**, Wei-Lun Chao  
@@ -57,7 +57,7 @@ Our work explores **Expensive Multi-Objective Optimization** by introducing the 
 
 <br>
  
-<img class="paper_right_long" src="/assets/project/RONIN.png" onclick="onClick(this)" >
+<img class="paper_right_long" src="/assets/project/RONIN_2025.png" onclick="onClick(this)" >
 
 [**Detecting Out-of-Distribution Objects through Class-Conditioned Inpainting**](http://arxiv.org/abs/2402.03292)  
 **Quang-Huy Nguyen**\*, Jin Zhou\*, Zhenzhen Liu\*, Huyen Bui, Kilian Q. Weinberger, Wei-Lun Chao, Dung D. Le  
@@ -67,7 +67,7 @@ Our work addresses **OOD Object Detection** by exploiting the inconsistency betw
 
 <br> 
 
-<img class="paper_right" src="/assets/project/Co-PSL.png" onclick="onClick(this)" >
+<img class="paper_right" src="/assets/project/Co-PSL_2024.png" onclick="onClick(this)" >
 
 [**Controllable Expensive Multi-objective Learning with Warm-starting Bayesian Optimization**](http://arxiv.org/abs/2311.15297)  
 **Quang-Huy Nguyen**\*, [Long P. Hoang](https://scholar.google.com/citations?user=3Dfc1z8AAAAJ&hl=en)\*, [Hoang V. Vu](https://scholar.google.com/citations?hl=en&user=YMt0pEoAAAAJ), [Dung D. Le](https://scholar.google.com/citations?user=0eoYR1gAAAAJ&hl=en)  
@@ -77,7 +77,7 @@ Our work explores **Multi-objective Black-box Optimization** with ***Pareto Fron
 
 <br>
 
-<img class="paper_right" src="/assets/project/FSCT_IEEEAccess.png" onclick="onClick(this)" >
+<img class="paper_right" src="/assets/project/FSCT_IEEEAccess_2023.png" onclick="onClick(this)" >
 
 [**Enhancing Few-shot Image Classification with Cosine Transformer**](https://ieeexplore.ieee.org/document/10190567/)  
 **Quang-Huy Nguyen**, Cuong Q. Nguyen, Dung D. Le, Hieu H. Pham  
