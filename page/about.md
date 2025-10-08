@@ -12,7 +12,6 @@ I obtained my bachelor degree in Computer Engineering at [University of Informat
 
 {% include social_media_links.html %}
 
-
 <div style="text-align:center; position:relative; left:-120px; margin: 1.5em 0;">
   <span style="font-size: 1.1em; color: #0b730b; font-weight: 600;"><br>
     I am actively seeking a <strong>Summer 2025 research internship</strong>.<br>
