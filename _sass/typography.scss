@@ -1,0 +1,120 @@
+@import "vars";
+
+.content {
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    // Use native decimal markers for ordered lists and keep the same font as body.
+    ol {
+        padding-left: 40px;
+        list-style-type: decimal;
+        margin: 0 0 0 0;
+        font-size: 14px;
+    }
+
+    ol>li {
+        list-style-position: outside;
+        margin: 5px 0;
+    }
+
+    ul>li {
+        margin: 5px 0 5px 0;
+    }
+
+    ul {
+        padding: 0 20px 0 20px;
+        ;
+    }
+
+    ol {
+        /* keep a bit of extra horizontal padding for better indentation */
+        padding: 0 30px 0 40px;
+    }
+
+    /* Ensure the list marker (number) uses the same font as surrounding text */
+    ol>li::marker {
+        font-family: inherit;
+        font-weight: normal;
+    }
+
+    blockquote {
+        //border: 1px solid black;
+        border-left: 5px solid #333333;
+        margin: 20px 0 20px 0;
+        padding: 2px 8px 2px 8px;
+        font-style: italic;
+    }
+
+    .profile-picture {
+        height: $image-size;
+        width: $image-size;
+        position: relative;
+        margin: 5px 5px 10px 10px;
+        padding: 10px 10px 10px 10px;
+        float: right;
+        border-radius: 50%;
+
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+
+        @media (max-width: $small-width) {
+            img {
+                margin-top: -5px;
+            }
+        }
+    }
+
+    img {
+        text-align: center;
+        width: 100%;
+    }
+
+    .img_item {
+        position: relative;
+        margin-left: 30px;
+        float: right;
+        text-align: right;
+        width: 25%;
+        cursor: pointer
+    }
+
+    .img_blog {
+        margin-top: -30px;
+        position: relative;
+        margin-left: 30px;
+        float: right;
+        text-align: right;
+        width: 25%;
+        cursor: pointer
+    }
+
+    .paper_right {
+        margin-top: 0px;
+        position: relative;
+        float: left;
+        text-align: left;
+        margin-top: 10px;
+        margin-right: 20px;
+        margin-bottom: 50px;
+        font-size: 1px;
+        width: 25%;
+        cursor: pointer
+    }
+
+    .paper_right_long {
+        margin-top: 0px;
+        position: relative;
+        float: left;
+        text-align: left;
+        margin-top: 20px;
+        margin-right: 20px;
+        margin-bottom: 60px;
+        font-size: 14px;
+        width: 25%;
+        cursor: pointer
+    }
+}

@@ -1,0 +1,35 @@
+title: "Quang-Huy Nguyen"
+url: "https://quanghuy0497.github.io"
+
+remote_theme: ankitsultana/researcher@gem
+layout: "default"
+
+markdown: kramdown
+kramdown:
+    math_engine: katex
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/quanghuy0497"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "<strong>About Me</strong>"
+   link: "https://quanghuy0497.github.io"
+ - name: <strong>My Research</strong>
+   link: "/page/research"
+ - name: <strong>My Blog</strong>
+   link: "/page/blog"
+ - name: "<strong>Hobbies</strong>"
+   link: "/page/hobby/"
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

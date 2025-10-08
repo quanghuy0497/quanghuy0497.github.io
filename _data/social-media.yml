@@ -1,0 +1,58 @@
+# https://fontawesome.com/icons
+
+# email:
+#   id: 'nguyen.2959@osu.edu' #'quanghuy0497@gmail.com'
+#   href: 'mailto:'
+#   title: 'Email'
+#   fa-icon: 'fas fa-envelope'
+#   space: '/&thinsp;'
+
+cv:
+  id: 'Nguyen_Huy_CV_07October2025.pdf'
+  href: 'pdf/'
+  title: 'Curiculum Vitae'
+  fa-icon: 'fas fa-file'
+  space: '/&thinsp;'
+
+github:
+  id: 'quanghuy0497'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fab fa-github-square'
+  space: '/&thinsp;'
+
+facebook:
+  id: 'quanghuy0497/'
+  href: 'https://www.linkedin.com/in/'
+  title: 'Linkedin'
+  fa-icon: 'fab fa-linkedin'
+  space: '/&thinsp;'
+
+twitter:
+  id: 'quanghuy0497'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fab fa-twitter-square'
+  space: '/&thinsp;'
+
+scholar:
+  id: 'citations?hl=en&user=SLjuGgIAAAAJ&view_op=list_works&sortby=pubdate'
+  href: 'https://scholar.google.com/'
+  title: 'Scholar'
+  fa-icon: 'fas fa-graduation-cap'
+  space: ''
+
+# email:
+#   id: 'quanghuy0497@gmail.com'
+#   href: 'mailto:'
+#   title: 'Personal Email'
+#   fa-icon: 'fas fa-envelope'
+#   space: '/&thinsp;'
+
+# instagram:
+#   id: 'quanghuy0497'
+#   href: 'https://instagram.com/'
+#   title: 'Insta'
+#   fa-icon: 'fab fa-instagram-square'
+#   space: '/&thinsp;'
+

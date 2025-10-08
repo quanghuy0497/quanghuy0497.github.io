@@ -1,0 +1,17 @@
+
+<div class="col-lg-8">
+    <div style="text-align:center" >
+        <br>
+            {% if site.data.social-media %}
+            <div id="social-media">
+                {% assign sm = site.data.social-media %}
+                {% for entry in sm %}
+                {% assign key = entry | first %}
+                
+                <a target="_blank" href="{{ sm[key].href }}{{ sm[key].id }}" style="color: #000000; font-size: 14px; font-weight: bold" ><span class="glyphicon icon"><i class="{{ sm[key].fa-icon }}" style="color: #008000;"></i></span> {{ sm[key].title}} </a> {{ sm[key].space}}
+
+                {% endfor %}
+            </div>
+            {% endif %}
+    </div>
+</div>
