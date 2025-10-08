@@ -2,7 +2,7 @@
 
 <img class="profile-picture" src="/assets/profile/Profile_2024.png">
 
-I am currently a first-year Ph.D. student in Computer Science at [**the Ohio State University**](https://cse.osu.edu/), supervised by Prof. [**Wei-Lun Chao**](https://sites.google.com/view/wei-lun-harry-chao/home). I am generally interested in machine learning and computer vision for open-world machine learning with imperfect data.
+I am currently a second-year Ph.D. student in Computer Science at [**the Ohio State University**](https://cse.osu.edu/), supervised by Prof. [**Wei-Lun Chao**](https://sites.google.com/view/wei-lun-harry-chao/home). I am generally interested in machine learning and computer vision for open-world machine learning with imperfect data.
 
 I obtained my bachelor degree in Computer Engineering at [University of Information Technology](https://en.uit.edu.vn/), Vietnam National University Ho Chi Minh City in late 2020. From 2022 to 2024, I was a research assistant at [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/), [College of Engineering and Computer Science, VinUni](https://vinuni.edu.vn/college-of-engineering-computer-science/), and AI research resident at [FPT Software AI Residency](https://fpt-aicenter.com/en/ai-residency), mentored by Prof [Dung D. Le](https://andrew-dungle.github.io/) (VinUniversity).
 
