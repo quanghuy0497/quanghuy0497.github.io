@@ -1,9 +1,42 @@
 <hr class="site-hr" />
-<center>
-<footer class="site-footer">
-    <p class="footer-quote"; style="color: green; font-size: 14px; margin-bottom: 10px; line-height: 0em">
-        <b><i>“No matter what your dream is, you have to dedicate yourself entirely to it” - Ayrton Senna</i></b>
+<footer class="site-footer" style="text-align: center;">
+    <!-- Inline responsive styles kept local to this include so behavior is predictable
+             Keeps the quote green and centered; on small screens it constrains width so
+             the sentence naturally breaks into two lines. -->
+    <style>
+        .footer-quote {
+            font-style: italic;
+            font-weight: 600;
+            color: #146b3a;
+            font-size: 14px;
+            margin-bottom: 10px;
+            line-height: 1.25;
+            display: inline-block; /* allow max-width to control wrapping while staying centered */
+            text-align: center;
+            max-width: 900px; /* large screens: single line if space allows */
+        }
+
+        .footer-author {
+            display: block;
+            margin-top: 5px;
+            font-weight: 700;
+            color: #e3b429;
+        }
+
+        /* Mobile: force a narrower max-width so the quote wraps into ~2 lines */
+        @media (max-width: 480px) {
+            .footer-quote { max-width: 260px; }
+        }
+
+        /* Slightly larger phones / small tablets */
+        @media (min-width: 481px) and (max-width: 720px) {
+            .footer-quote { max-width: 420px; }
+        }
+    </style>
+
+    <p class="footer-quote">
+        “No matter what your dream is, you have to dedicate yourself entirely to it.” <br>
+        <span class="footer-author">Ayrton Senna, 3-time Formula 1 World Champion</span>
     </p>
-<br>
-</center>
+
 </footer>
