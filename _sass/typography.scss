@@ -103,6 +103,43 @@
         }
     }
 
+    /* Footer/quote styling to avoid overlap on mobile */
+    .site-hr {
+        border: 0;
+        height: 0;
+        border-top: 1px solid rgba(0,0,0,0.08);
+        border-bottom: 1px solid rgba(255,255,255,0.15);
+        margin: 1.2em 0;
+    }
+
+    .site-footer {
+        text-align: center;
+        text-align: center;
+        padding: 0.8em 1em 2.0em 1em; /* more bottom padding so footer isn't flush to viewport */
+        margin-bottom: 1.0em; /* small space below the footer */
+    }
+
+    .footer-quote {
+        color: #0b730b;
+        font-size: 16px;
+        line-height: 1.2em;
+        margin: 0 auto;
+        max-width: 900px;
+        word-break: break-word;
+        text-align: center;
+        display: inline-block; /* allow the quote to wrap into multiple lines */
+        padding-bottom: 0.8em; /* ensure space under the quote */
+    }
+
+    @media (max-width: $small-width) {
+        .footer-quote {
+            font-size: 14px;
+            line-height: 1.1em;
+            padding: 0 0.9em 0.9em 0.9em;
+            max-width: 280px; /* allow natural wrapping on very small screens */
+        }
+    }
+
     .img_item {
         position: relative;
         margin-left: 30px;
