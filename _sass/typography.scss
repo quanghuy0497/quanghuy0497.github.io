@@ -62,15 +62,45 @@
         }
 
         @media (max-width: $small-width) {
-            img {
-                margin-top: -5px;
-            }
+            /* On small screens, make the profile picture smaller and center it above the text */
+            float: none;
+            display: block;
+            margin: 0 auto 1.2em auto;
+            height: 160px;
+            width: 160px;
+            padding: 4px;
         }
     }
 
     img {
         text-align: center;
         width: 100%;
+    }
+
+    /* Callout for internship - avoid using negative positioning and keep centered on mobile */
+    .intern-callout {
+        text-align: center;
+        position: relative;
+        margin: 1.5em 0;
+        left: 0;
+    }
+
+    @media (max-width: $small-width) {
+        .intern-callout span {
+            font-size: 0.95em;
+            color: #0b730b;
+            font-weight: 600;
+            display: inline-block;
+            padding: 6px 10px;
+        }
+
+        /* ensure floated paper images stack nicely on mobile */
+        .paper_right, .paper_right_long, .img_item, .img_blog {
+            float: none;
+            width: 100%;
+            margin-right: 0;
+            margin-left: 0;
+        }
     }
 
     .img_item {
