@@ -34,6 +34,8 @@ Details of my research interests are discussed [here](https://quanghuy0497.githu
 
 ## Publications and Preprints
 
+<img class="paper_right_long" src="/assets/project/RONIN_2025.png" onclick="onClick(this)" >
+
 [**Detecting Out-of-Distribution Objects through Class-Conditioned Inpainting**](http://arxiv.org/abs/2402.03292)  
 **Quang-Huy Nguyen**\*, Jin Zhou\*, Zhenzhen Liu\*, Huyen Bui, Kilian Q. Weinberger, Wei-Lun Chao, Dung D. Le  
 **WACV**, **2026**  
@@ -41,8 +43,6 @@ Details of my research interests are discussed [here](https://quanghuy0497.githu
 We address OOD Object Detection by leveraging the inconsistency between generative and discriminative model outputs. We employ an off-the-shelf generative model as an auxiliary to the object detector and introduce a triplet similarity metric that captures both semantic and visual differences, enabling effective OOD object dection in the zero-shot manner.
 
 <br> 
-
-<img class="paper_right_long" src="/assets/project/PHN_AAAI25.png" onclick="onClick(this)" >
 
 <img class="paper_right" src="/assets/project/V-PET_2025.png" onclick="onClick(this)" >
 
@@ -64,7 +64,8 @@ We present a unified empirical study of Parameter-Efficient Fine-Tuning (PEFT) m
 
 <br>
 
-<img class="paper_right_long" src="/assets/project/RONIN_2025.png" onclick="onClick(this)" >
+
+<img class="paper_right_long" src="/assets/project/PHN_AAAI25.png" onclick="onClick(this)" >
 
 [**Improving Pareto Set Learning for Expensive Multi-objective Optimization via Stein Variational Hypernetworks**](https://arxiv.org/abs/2412.17312)  
 Minh-Duc Nguyen, Phuong Mai Dinh, **Quang-Huy Nguyen**, Long P. Hoang, Dung D. Le  
