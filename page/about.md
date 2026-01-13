@@ -14,7 +14,7 @@ I obtained my bachelor degree in Computer Engineering at [University of Informat
 
 <div class="intern-callout">
   <span style="font-size: 1.1em; color: #0b730b; font-weight: 600;"><br>
-      I am actively seeking a <strong>Summer 2026 research internship</strong>.<br>
+      I am actively seeking a <strong>Summer 2026</strong> research internship**.<br>
     Any recommendations or referrals would be greatly appreciated.
   </span>
 </div>
