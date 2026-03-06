@@ -21,7 +21,7 @@ I received my bachelor's degree in Computer Engineering from the [**Vietnam Nati
 
 <div class="intern-callout">
   <span style="font-size: 1.1em; color: #0b730b; font-weight: 600;"><br>
-      I am currently seeking <strong>Summer 2027</strong> research internship.<br>
+      I am currently seeking <strong>Summer 2026</strong> research internship.<br>
       Recommendations or referrals are greatly appreciated.
   </span>
 </div>

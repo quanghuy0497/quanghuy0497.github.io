@@ -88,13 +88,18 @@
     <script>
         function onClick(element) {
             document.getElementById("img01").src = element.src;
-            document.getElementById("modal01").style.display = "block";
+            document.getElementById("modal01").style.display = "flex";
         }
     </script>
-    <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
-        <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
-        <div class="w3-modal-content w3-animate-zoom">
-            <img id="img01" class="center" style="width:100%">
+    
+    <div id="modal01" class="w3-modal" onclick="this.style.display='none'"
+        style="display:none; align-items:center; justify-content:center; padding:20px; background-color:rgba(0,0,0,0.85);">
+    
+        <span class="w3-button w3-hover-red w3-xlarge"
+            style="position:absolute; top:12px; right:20px; z-index:10000;">&times;</span>
+    
+        <div class="w3-animate-zoom" style="max-width:none; background:none; box-shadow:none; margin:0; padding:0;">
+            <img id="img01" style="display:block; max-width:95vw; max-height:95vh; width:auto; height:auto; margin:auto;">
         </div>
     </div>
     
