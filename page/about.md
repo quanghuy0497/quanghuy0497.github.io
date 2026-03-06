@@ -37,8 +37,6 @@ My research focuses on three directions: (1) **learning from imperfect data** (e
 More details about my research can be found [**here**](https://quanghuy0497.github.io/page/research).
 
 
-&thinsp;
-
 ## Publications and Preprints
 
 <img class="paper_right_long" src="/assets/project/RONIN_WACV2026.png" onclick="onClick(this)" >
