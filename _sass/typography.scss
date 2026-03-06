@@ -48,33 +48,59 @@
     }
 
     .profile-picture {
-        height: $image-size;
-        width: $image-size;
-        position: relative;
-        margin: 0px 0px 10px 10px;
-        padding: 10px 10px 10px 10px;
+        width: 280px; // width of image + caption block
         float: right;
-        border-radius: 50%;
-
-        p & {
-            padding: 0;
-            margin: 0;
-        }
-
-        @media (max-width: $small-width) {
-            /* On small screens, make the profile picture smaller and center it above the text */
-            float: none;
-            display: block;
-            margin: 0 auto 1.2em auto;
-            height: 160px;
-            width: 160px;
-            padding: 4px;
-        }
+        margin: -8px 0 12px 24px; // slightly lift image to align with heading
+        padding: 8px;
+        text-align: center; // center everything inside
     }
 
-    img {
-        text-align: center;
+    .profile-picture img {
         width: 100%;
+        height: auto;
+        display: block;
+        border-radius: 50%;
+    }
+
+        .profile-caption {
+            margin-top: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            /* centers all lines horizontally */
+            text-align: center;
+            /* centers multi-line text */
+        }
+    
+        .profile-name {
+            font-size: 1.05rem;
+            font-weight: 700;
+            margin-bottom: 4px;
+        }
+    
+        .profile-title {
+            font-size: 0.9rem;
+            color: #666;
+            margin-bottom: 3px;
+            white-space: nowrap;
+        }
+    
+        .profile-tagline {
+            font-size: 0.82rem;
+            color: #777;
+            white-space: nowrap;
+        }
+
+    @media (max-width: $small-width) {
+        .profile-picture {
+            float: none;
+            width: 220px;
+            margin: 0 auto 1.4em auto;
+        }
+
+        .profile-tagline {
+            white-space: normal; // allow wrapping on small screens
+        }
     }
 
     /* Callout for internship - avoid using negative positioning and keep centered on mobile */

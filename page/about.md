@@ -1,40 +1,47 @@
+
+
+<div class="profile-picture">
+    <img src="/assets/profile/Profile_2024.png" alt="Quang-Huy Nguyen">
+
+    <div class="profile-caption">
+        <div class="profile-name">Quang-Huy Nguyen</div>
+        <div class="profile-title">PhD Student | The Ohio State University</div>
+        <div class="profile-tagline">Reliable Machine Learning under Imperfect Data</div>
+    </div>
+</div>
 ## About Me
 
-<img class="profile-picture" src="/assets/profile/Profile_2024.png">
+I am a second-year Ph.D. student in Computer Science at [**The Ohio State University**](https://cse.osu.edu/), advised by Prof. [**Wei-Lun Chao**](https://sites.google.com/view/wei-lun-harry-chao/home). My research focuses on **reliable machine learning under imperfect data and distribution shift**.
 
-I am currently a second-year Ph.D. student in Computer Science at [**the Ohio State University**](https://cse.osu.edu/), supervised by Prof. [**Wei-Lun Chao**](https://sites.google.com/view/wei-lun-harry-chao/home). I am generally interested in machine learning and computer vision for open-world machine learning with imperfect data.
+I received my bachelor's degree in Computer Engineering from the [**Vietnam National University Ho Chi Minh City**](https://vnuhcm.edu.vn/en), in 2020. From 2022 to 2024, I worked as a research assistant at the [**VinUni–Illinois Smart Health Center (VISHC)**](https://smarthealth.vinuni.edu.vn/) at [**VinUniversity**](https://vinuni.edu.vn/college-of-engineering-computer-science/), and as an AI research resident at the [**FPT Software AI Residency**](https://fpt-aicenter.com/en/ai-residency), mentored by Prof. [**Dung Le**](https://andrew-dungle.github.io/).
 
-I obtained my bachelor degree in Computer Engineering at [University of Information Technology](https://en.uit.edu.vn/), Vietnam National University Ho Chi Minh City in late 2020. From 2022 to 2024, I was a research assistant at [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/), [College of Engineering and Computer Science, VinUni](https://vinuni.edu.vn/college-of-engineering-computer-science/), and AI research resident at [FPT Software AI Residency](https://fpt-aicenter.com/en/ai-residency), mentored by Prof [Dung D. Le](https://andrew-dungle.github.io/) (VinUniversity).
-
-<!-- **My email**: <a href="mailto:nguyen.2959@osu.edu"><b>nguyen</b>&#95;dot&#95;<b>2959</b>&#95;at&#95;<span style="display:none;">ignoreme-</span><b>osu</b>&#95;dot&#95;<b>edu</b></a> -->
-**My email**: <a href="mailto:nguyen.2959@osu.edu"><b>nguyen.2959@osu.edu
-
+**Email:** <a href="mailto:nguyen.2959@osu.edu"><b>nguyen.2959@osu.edu</b></a>
 
 {% include social_media_links.html %}
 
 <div class="intern-callout">
   <span style="font-size: 1.1em; color: #0b730b; font-weight: 600;"><br>
-      I am actively seeking a <strong>Summer 2026</strong> research internship**.<br>
-    Any recommendations or referrals would be greatly appreciated.
+      I am currently seeking <strong>Summer 2027</strong> research internship.<br>
+      Recommendations or referrals are greatly appreciated.
   </span>
 </div>
- 
+
+&thinsp;
 
 
 ## Research Interests
 
-I am interested in **_meta-learning_**, **_uncertainty estimation_**, and **_domain adaptation_** for machine learning and computer vision. In particular, my research focuses on **_learning with imperfect data_** (e.g., limited, noisy, or imbalanced) under **_minimal human supervision_**, while enabling effective **_extrapolation and adaptation to unseen domains_** beyond the training set. Application-wise, I am working on **_medical imaging_** and **_animal behavior analysis_**, where handling limited data with minimal supervision is vital.
+My research focuses on three directions: (1) **learning from imperfect data** (e.g., limited, noisy, long-tail, or imbalanced data), (2) **quantifying uncertainty and unknown**, and (3) **adapting models to novel distributions and environments**, with applications in medical imaging and animal behavior analysis.
 
-Additionally, I am also interested in eploring the intersection of **black-box optimization** and **uncertainty estimation** to advance lifelong and open-world learning systems.
 
-Details of my research interests are discussed [here](https://quanghuy0497.github.io/page/research).
+More details about my research can be found [**here**](https://quanghuy0497.github.io/page/research).
 
 
 &thinsp;
 
 ## Publications and Preprints
 
-<img class="paper_right_long" src="/assets/project/RONIN_2025.png" onclick="onClick(this)" >
+<img class="paper_right_long" src="/assets/project/RONIN_WACV2026.png" onclick="onClick(this)" >
 
 [**Detecting Out-of-Distribution Objects through Class-Conditioned Inpainting**](http://arxiv.org/abs/2402.03292)  
 **Quang-Huy Nguyen**\*, Jin Zhou\*, Zhenzhen Liu\*, Huyen Bui, Kilian Q. Weinberger, Wei-Lun Chao, Dung D. Le  
@@ -44,7 +51,7 @@ We address OOD Object Detection by leveraging the inconsistency between generati
 
 <br> 
 
-<img class="paper_right" src="/assets/project/V-PET_2025.png" onclick="onClick(this)" >
+<img class="paper_right" src="/assets/project/VPET_NeurIPS2025.png" onclick="onClick(this)" >
 
 [**Revisiting Semi-Supervised Learning in the Era of Foundation Models**](https://arxiv.org/pdf/2503.09707)  
 Zheda Mai\*, Ping Zhang\*, **Quang-Huy Nguyen**, Wei-Lun Chao  
