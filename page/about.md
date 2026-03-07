@@ -2,39 +2,33 @@
 
 <div class="profile-picture">
     <img src="/assets/profile/Profile_2024.png" alt="Quang-Huy Nguyen">
-
     <div class="profile-caption">
         <div class="profile-name">Quang-Huy Nguyen</div>
-        <div class="profile-title">PhD Student | The Ohio State University</div>
-        <div class="profile-tagline">Reliable Machine Learning under Imperfect Data</div>
+        <div class="profile-title">CSE PhD Student | The Ohio State University</div>
+        <div class="profile-tagline">Machine Learning under Imperfect Data</div>
     </div>
 </div>
 ## About Me
 
-I am a second-year Ph.D. student in Computer Science at [**The Ohio State University**](https://cse.osu.edu/), advised by Prof. [**Wei-Lun Chao**](https://sites.google.com/view/wei-lun-harry-chao/home). My research focuses on **reliable machine learning under imperfect data and distribution shift**.
+I am a second-year Ph.D. student in Computer Science at [**The Ohio State University**](https://cse.osu.edu/), advised by Prof. [**Wei-Lun Chao**](https://sites.google.com/view/wei-lun-harry-chao/home). My research interests broadly lie in **reliable machine learning under imperfect data and distribution shift**, particularly in real-world settings.
 
-I received my bachelor's degree in Computer Engineering from the [**Vietnam National University Ho Chi Minh City**](https://vnuhcm.edu.vn/en), in 2020. From 2022 to 2024, I worked as a research assistant at the [**VinUni–Illinois Smart Health Center (VISHC)**](https://smarthealth.vinuni.edu.vn/) at [**VinUniversity**](https://vinuni.edu.vn/college-of-engineering-computer-science/), and as an AI research resident at the [**FPT Software AI Residency**](https://fpt-aicenter.com/en/ai-residency), mentored by Prof. [**Dung Le**](https://andrew-dungle.github.io/).
+I received my bachelor's degree in Computer Engineering from the [**Vietnam National University Ho Chi Minh City**](https://vnuhcm.edu.vn/en), in 2020. From 2022 to 2024, I worked as a research assistant at the [**VinUni–Illinois Smart Health Center (VISHC)**](https://smarthealth.vinuni.edu.vn/) at [**VinUniversity**](https://vinuni.edu.vn/college-of-engineering-computer-science/), and AI research resident at the [**FPT Software AI Residency**](https://fpt-aicenter.com/en/ai-residency), mentored by Prof. [**Dung Le**](https://andrew-dungle.github.io/).
 
 **Email:** <a href="mailto:nguyen.2959@osu.edu"><b>nguyen.2959@osu.edu</b></a>
 
 {% include social_media_links.html %}
 
 <div class="intern-callout">
-  <span style="font-size: 1.1em; color: #0b730b; font-weight: 600;"><br>
+  <span style="font-size: 1.1em; color: #0b730b; font-weight: 600;">
       I am currently seeking <strong>Summer 2026</strong> research internship.<br>
       Recommendations or referrals are greatly appreciated.
   </span>
 </div>
 
-&thinsp;
-
 
 ## Research Interests
 
-My research focuses on three directions: (1) **learning from imperfect data** (e.g., limited, noisy, long-tail, or imbalanced data), (2) **quantifying uncertainty and unknown**, and (3) **adapting models to novel distributions and environments**, with applications in medical imaging and animal behavior analysis.
-
-
-More details about my research can be found [**here**](https://quanghuy0497.github.io/page/research).
+My research interests center on three directions: (1) **learning from imperfect data**, (2) **detecting the unknown and quantifying uncertainty**, and (3) **adapting to novel distributions and environments**, with applications in **medical imaging** and **animal behavior analysis**. Learn more about my research [**here**](https://quanghuy0497.github.io/page/research).
 
 
 ## Publications and Preprints
