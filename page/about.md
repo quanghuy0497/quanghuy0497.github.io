@@ -64,7 +64,7 @@ We present a unified empirical study of Parameter-Efficient Fine-Tuning (PEFT) m
 <br>
 
 
-<img class="paper_right_long" src="/assets/project/PHN_AAAI25.png" onclick="onClick(this)" >
+<img class="paper_right" src="/assets/project/PHN_AAAI2025.png" onclick="onClick(this)" >
 
 [**Improving Pareto Set Learning for Expensive Multi-objective Optimization via Stein Variational Hypernetworks**](https://arxiv.org/abs/2412.17312)  
 Minh-Duc Nguyen, Phuong Mai Dinh, **Quang-Huy Nguyen**, Long P. Hoang, Dung D. Le  
