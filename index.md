@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Quang-Huy Nguyen's Homepage"
+title: "Quang-Huy Nguyen | Homepage"
 
 ---
 <!-- # Quang-Huy Nguyen -->
