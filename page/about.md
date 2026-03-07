@@ -75,7 +75,7 @@ We investigate Expensive Multi-Objective Optimization by introducing the Stein V
 <br>
  
 
-<img class="paper_right" src="/assets/project/Co-PSL_2024.png" onclick="onClick(this)" >
+<!-- <img class="paper_right" src="/assets/project/Co-PSL_2024.png" onclick="onClick(this)" >
 
 [**Controllable Expensive Multi-objective Learning with Warm-starting Bayesian Optimization**](http://arxiv.org/abs/2311.15297)  
 **Quang-Huy Nguyen**\*, [Long P. Hoang](https://scholar.google.com/citations?user=3Dfc1z8AAAAJ&hl=en)\*, [Hoang V. Vu](https://scholar.google.com/citations?hl=en&user=YMt0pEoAAAAJ), [Dung D. Le](https://scholar.google.com/citations?user=0eoYR1gAAAAJ&hl=en)  
@@ -83,7 +83,7 @@ We investigate Expensive Multi-Objective Optimization by introducing the Stein V
 
 We explore Multi-Objective Black-Box Optimization through Pareto Front Learning, aligning trade-off preferences with their corresponding optimal solutions across conflicting objectives. To achieve this, we warm-start the Gaussian Process to obtain an accurate initial approximation of the Pareto front, and reinitialize the Pareto Set Model during optimization steps to stabilize the learning process.
 
-<br>
+<br> -->
 
 <img class="paper_right" src="/assets/project/FSCT_IEEEAccess_2023.png" onclick="onClick(this)" >
 
