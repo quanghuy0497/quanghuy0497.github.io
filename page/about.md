@@ -5,7 +5,7 @@
     <div class="profile-caption">
         <div class="profile-name">Quang-Huy (Percy) Nguyen</div>
         <div class="profile-title">CSE PhD Student | The Ohio State University</div>
-        <div class="profile-tagline">Machine Learning under Imperfect Data</div>
+        <div class="profile-tagline">Reliable Machine Learning with Imperfect Data</div>
     </div>
 </div>
 ## About Me
