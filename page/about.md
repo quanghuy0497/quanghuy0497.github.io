@@ -3,16 +3,16 @@
 <div class="profile-picture">
     <img src="/assets/profile/Profile_2024.png" alt="Quang-Huy Nguyen">
     <div class="profile-caption">
-        <div class="profile-name">Quang-Huy Nguyen</div>
+        <div class="profile-name">Quang-Huy (Percy) Nguyen</div>
         <div class="profile-title">CSE PhD Student | The Ohio State University</div>
         <div class="profile-tagline">Machine Learning under Imperfect Data</div>
     </div>
 </div>
 ## About Me
 
-I am a second-year Ph.D. student in Computer Science at [**The Ohio State University**](https://cse.osu.edu/), advised by Prof. [**Wei-Lun Chao**](https://sites.google.com/view/wei-lun-harry-chao/home). My research interests broadly lie in **reliable machine learning under imperfect data and distribution shift**, particularly in real-world settings.
+I am a second-year Ph.D. student in Computer Science at [**The Ohio State University**](https://cse.osu.edu/), advised by Prof. [**Wei-Lun (Harry) Chao**](https://sites.google.com/view/wei-lun-harry-chao/home). My research interests broadly lie in **reliable machine learning under imperfect data and distribution shift**, particularly in real-world settings.
 
-I received my bachelor's degree in Computer Engineering from the [**Vietnam National University Ho Chi Minh City**](https://vnuhcm.edu.vn/en), in 2020. From 2022 to 2024, I worked as a research assistant at the [**VinUni–Illinois Smart Health Center (VISHC)**](https://smarthealth.vinuni.edu.vn/) at [**VinUniversity**](https://vinuni.edu.vn/college-of-engineering-computer-science/), and AI research resident at the [**FPT Software AI Residency**](https://fpt-aicenter.com/en/ai-residency), mentored by Prof. [**Dung Le**](https://andrew-dungle.github.io/).
+I received my bachelor's degree in Computer Engineering from the [**Vietnam National University Ho Chi Minh City**](https://vnuhcm.edu.vn/en), in 2020. From 2022 to 2024, I worked as a research assistant at the [**VinUni–Illinois Smart Health Center (VISHC)**](https://smarthealth.vinuni.edu.vn/) at [**VinUniversity**](https://vinuni.edu.vn/college-of-engineering-computer-science/), and research resident at the [**FPT Software AI Center**](https://fpt-aicenter.com/en/ai-residency), mentored by Prof. [**Dung D. Le**](https://andrew-dungle.github.io/).
 
 **Email:** <a href="mailto:nguyen.2959@osu.edu"><b>nguyen.2959@osu.edu</b></a>
 

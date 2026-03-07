@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Quang-Huy (Percy) Nguyen"
+title: "Quang-Huy Nguyen's Homepage"
 
 ---
 <!-- # Quang-Huy Nguyen -->
