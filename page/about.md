@@ -8,6 +8,7 @@
         <div class="profile-tagline">Reliable Machine Learning with Imperfect Data</div>
     </div>
 </div>
+
 ## About Me
 
 I am a second-year Ph.D. student in Computer Science at [**The Ohio State University**](https://cse.osu.edu/), advised by Prof. [**Wei-Lun (Harry) Chao**](https://sites.google.com/view/wei-lun-harry-chao/home). My research interests broadly lie in **reliable machine learning under imperfect data and distribution shift**, particularly in real-world settings.
@@ -25,11 +26,14 @@ I received my bachelor's degree in Computer Engineering from the [**Vietnam Nati
   </span>
 </div>
 
+&thinsp;
 
 ## Research Interests
 
 My research interests center on three directions: (1) **learning from imperfect data**, (2) **detecting the unknown and quantifying uncertainty**, and (3) **adapting to novel distributions and environments**, with applications in **medical imaging** and **animal behavior analysis**. Learn more about my research [**here**](https://quanghuy0497.github.io/page/research).
 
+
+&thinsp;
 
 ## Publications and Preprints
 
@@ -93,6 +97,14 @@ We explore Multi-Objective Black-Box Optimization through Pareto Front Learning,
 
 We explore **Few-shot Image Classification** by proposing *a new cross-attention mechanism* based on ***cosine similarity***, without using softmax, to further emphasizes the correlation between labeled supports and unlabeled query representations, thus enhancing ViT-based few-shot algorithms across various settings and scenarios compare to convention attention mechanism. 
 
+&thinsp;
+
+## Non-Research Project
+
+<img class="paper_right" src="/assets/project/F1Racepace_Project.png" onclick="onClick(this)" >
+[**Race Pace Analysis Dashboard**](https://ieeexplore.ieee.org/document/10190567/)
+
+To hone my skills in data mining and visualization, and to indulge my interest in F1 race analysis, I developed a small web-based project that analyzes race pace across different F1 events and sessions. The platform processes lap-time and telemetry data to generate interactive visualizations of driver performance, stint pace, and race trends. The project also serves as a practical playground for experimenting with data processing pipelines and visualization techniques for motorsport data. Feel free to check it [**here**](https://racepace.quanghuy0497.com/).
 
 &thinsp;
 
