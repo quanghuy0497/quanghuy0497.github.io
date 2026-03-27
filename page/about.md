@@ -99,14 +99,14 @@ We explore **Few-shot Image Classification** by proposing *a new cross-attention
 
 &thinsp;
 
-## Non-Research Project
+<!-- ## Non-Research Project
 
 <img class="paper_right" src="/assets/project/F1Racepace_Project.png" onclick="onClick(this)" >
 [**Race Pace Analysis Dashboard**](https://racepace.quanghuy0497.com/)
 
 To hone my skills in data mining and visualization, and to indulge my interest in F1 race analysis, I developed a small web-based project that analyzes race pace across different F1 events and sessions. The platform processes lap-time and telemetry data to generate interactive visualizations of driver performance, stint pace, and race trends. The project also serves as a practical playground for experimenting with data processing pipelines and visualization techniques for motorsport data. Feel free to check it [**here**](https://racepace.quanghuy0497.com/).
 
-&thinsp;
+&thinsp; -->
 
 
 ## News
