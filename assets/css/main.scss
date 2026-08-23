@@ -1,0 +1,48 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+/* Built-in Sass modules you’ll likely use across partials */
+@use "sass:math";
+@use "sass:string";
+
+/* Configure your design tokens BEFORE loading any of your partials.
+   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default:  "930px" }}
+);
+
+/* Your project partials — convert these files to `@use "variables";`
+   (or `@use "variables" as *;`) inside each file and qualify variables if needed. */
+@use "themes";
+@use "layout";
+
+// Core styles organized by usage
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+// Other specialized styles
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+// Local override: bare Markdown images (![](path), used throughout the blog
+// posts) have no width constraint in the theme's base styles and overflow
+// their container. Constrain all content images site-wide.
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+// Local override: the theme gives display-math blocks overflow-x: auto,
+// which shows a horizontal scrollbar under any equation wider than the
+// column. Let them render at full width instead.
+mjx-container[jax="CHTML"][display="true"] {
+  overflow-x: visible;
+}
