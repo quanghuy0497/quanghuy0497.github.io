@@ -46,3 +46,19 @@ img {
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: visible;
 }
+
+// Local override: make the paper "award" badge (e.g. a CVPR Highlight) read
+// as a genuine distinction — filled gold rather than the theme's plain
+// outlined-button treatment shared with Abs/Bib/HTML/PDF.
+// Scoped to the visible `a.award.btn` link only — the plain `.award` class
+// is also used by a normally-invisible collapsed `div.award.hidden` (a
+// print-only reveal block), which a broader selector would paint too.
+a.award.btn {
+  background-color: #c9971c !important;
+  border-color: #c9971c !important;
+  color: #1a1a1a !important;
+  font-weight: 700;
+}
+a.award.btn i {
+  margin-right: 0.3rem;
+}

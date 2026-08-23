@@ -1,0 +1,26 @@
+# Maps a bib entry's `abbr` field to a badge color/link, rendered as a bar
+# above the publication thumbnail on the publications page and about page.
+NeurIPS:
+  color: "#6B3FA0"
+  url: https://neurips.cc/
+ICLR:
+  color: "#0B6E7A"
+  url: https://iclr.cc/
+ICML:
+  color: "#7A1F3D"
+  url: https://icml.cc/
+CVPR:
+  color: "#2E7D32"
+  url: https://cvpr.thecvf.com/
+AAAI:
+  color: "#1B427D"
+  url: https://aaai.org/
+WACV:
+  color: "#B5601A"
+  url: https://wacv2026.thecvf.com/
+IEEE Access:
+  color: "#B31B1B"
+  url: https://ieeeaccess.ieee.org/
+Preprint:
+  color: "#6B7280"
+  url: https://arxiv.org/
