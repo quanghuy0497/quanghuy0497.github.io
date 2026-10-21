@@ -38,7 +38,7 @@ My email: [quanghuy@bu.edu](mailto:quanghuy@bu.edu)
   .pill-link:hover { background-color: var(--global-theme-color); color: #fff; }
 </style>
 <div class="pill-row">
-  <a class="pill-link" href="/assets/pdf/Nguyen_Huy_CV_23August2026.pdf" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf"></i> CV (08/26)</a>
+  <a class="pill-link" href="/assets/pdf/QuangHuy_Nguyen_Resume.pdf" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf"></i> CV (10/26)</a>
   <a class="pill-link" href="https://github.com/quanghuy0497" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i> GitHub</a>
   <a class="pill-link" href="https://www.linkedin.com/in/quanghuy0497" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
   <a class="pill-link" href="https://scholar.google.com/citations?user=SLjuGgIAAAAJ" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i> Google Scholar</a>
